@@ -1,6 +1,18 @@
 # Smithsonian Open Access API Proof of Concept
 
+## Running
+
+```
+conda activate smith
+cd smith-api-poc
+python main.py
+```
+
 ## Setup
+
+1. get an APi Key
+
+    [API KEY](https://api.data.gov/signup/)
 
 1. Download and install Anaconda Python
 

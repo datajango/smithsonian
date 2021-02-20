@@ -1,0 +1,1527 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-siris_sil_589799",
+                "title": "[Adam Antes : miscellaneous uncataloged material]",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_589799",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_589799",
+                        "unit_code": "SIL",
+                        "title_sort": "ADAM ANTES : MISCELLANEOUS UNCATALOGED MATERIAL",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!589799~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "[Adam Antes : miscellaneous uncataloged material]"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "object_type": [
+                            "Artist files",
+                            "Folders",
+                            "Books"
+                        ],
+                        "name": [
+                            "Antes, Adam",
+                            "Smithsonian Libraries"
+                        ],
+                        "topic": [
+                            "Artists"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "AAF--Antes, Adam"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Folder(s) may include exhibition announcements, newspaper and/or magazine clippings, press releases, brochures, reviews, invitations, illustrations, resume\u0301s, artist's statements, exhibition catalogs."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "The Library continues to add to the folder(s)."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Antes, Adam 1891-1984"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Smithsonian Libraries Art and Artist Files Collection DSI"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Antes, Adam 1891-1984"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "Photocopies of items in the folder(s) are available upon request, subject to fees and other current copyright guidelines for reproduction."
+                            },
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "FOLDER(S) DO NOT CIRCUATE. FOLDERS MUST BE CONSULTED ON SITE"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Vertical files"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Artist files"
+                            }
+                        ]
+                    }
+                },
+                "hash": "bb9f41812bbe51ab75b3eb3a02798ccb60f92ad2",
+                "docSignature": "6828779abcb5f8cc2041cf59e45dc72086e47d71_5277e7bef886288569b2795aa946393c",
+                "timestamp": "1588147831",
+                "lastTimeUpdated": "1588147829",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_589800",
+                "title": "[Horst Antes : miscellaneous uncataloged material]",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_589800",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_589800",
+                        "unit_code": "SIL",
+                        "title_sort": "HORST ANTES : MISCELLANEOUS UNCATALOGED MATERIAL",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!589800~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "[Horst Antes : miscellaneous uncataloged material]"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "object_type": [
+                            "Artist files",
+                            "Folders",
+                            "Books"
+                        ],
+                        "name": [
+                            "Antes, Horst",
+                            "Smithsonian Libraries"
+                        ],
+                        "topic": [
+                            "Artists"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "AAF--Antes, Horst"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Folder(s) may include exhibition announcements, newspaper and/or magazine clippings, press releases, brochures, reviews, invitations, illustrations, resume\u0301s, artist's statements, exhibition catalogs."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "The Library continues to add to the folder(s)."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Antes, Horst 1936-"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Smithsonian Libraries Art and Artist Files Collection DSI"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Antes, Horst 1936-"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "Photocopies of items in the folder(s) are available upon request, subject to fees and other current copyright guidelines for reproduction."
+                            },
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "FOLDER(S) DO NOT CIRCUATE. FOLDERS MUST BE CONSULTED ON SITE"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Vertical files"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Artist files"
+                            }
+                        ]
+                    }
+                },
+                "hash": "00030001b29ae59c4d4e3707da884c70249893a1",
+                "docSignature": "c0fa2c3472ac34e02c4c1c49af2f88f3c723f14f_462aebc1a53098c58fa81718de1f1019",
+                "timestamp": "1588147831",
+                "lastTimeUpdated": "1588147829",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnheducation_10002802",
+                "title": "Spine-waisted Ant, Harvesting Ant",
+                "unitCode": "NMNHEDUCATION",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnheducation_10002802",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnheducation_10002802",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m35c67affd9c0740c99a0eef8c97ae6b03/90",
+                                    "idsId": "ark:/65665/m35c67affd9c0740c99a0eef8c97ae6b03",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/m35c67affd-9c07-40c9-9a0e-ef8c97ae6b03",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m35c67affd9c0740c99a0eef8c97ae6b03",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution JPEG (2500x2500)",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022021_Harvesting_Ant_Aphaenogaster_rudis_001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022021_Harvesting_Ant_Aphaenogaster_rudis_001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022021_Harvesting_Ant_Aphaenogaster_rudis_001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "guid": "http://n2t.net/ark:/65665/387705ecc-704d-4958-9a62-8fa6e8900e50",
+                        "title_sort": "SPINEWAISTED ANT HARVESTING ANT",
+                        "unit_code": "NMNHEDUCATION",
+                        "record_link": "http://n2t.net/ark:/65665/387705ecc-704d-4958-9a62-8fa6e8900e50",
+                        "title": {
+                            "label": "title",
+                            "content": "Spine-waisted Ant, Harvesting Ant"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Education & Outreach"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1930s"
+                        ],
+                        "object_type": [
+                            "Education and Outreach collections"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "scientific_name": [
+                            "Aphaenogaster rudis"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States"
+                                },
+                                "L3": {
+                                    "type": "State",
+                                    "content": "Virginia"
+                                },
+                                "L4": {
+                                    "type": "County",
+                                    "content": "Russell County"
+                                }
+                            }
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "topic": [
+                            "Insects"
+                        ],
+                        "place": [
+                            "Russell County",
+                            "United States",
+                            "Virginia"
+                        ],
+                        "common_name": [
+                            "Spine-waisted Ant, Harvesting Ant"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Collection Date",
+                                "content": "1936"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Q?rius, The Coralyn W. Whitney Science Education Center"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "USNM Number",
+                                "content": "EO22021"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Description",
+                                "content": "This object is part of the Education and Outreach collection, some of which are in the Q?rius science education center and available to see."
+                            },
+                            {
+                                "label": "Number of objects in this record",
+                                "content": "2"
+                            },
+                            {
+                                "label": "Record Last Modified",
+                                "content": "19 Jun 2020"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Discipline",
+                                "content": "Entomology"
+                            },
+                            {
+                                "label": "Region",
+                                "content": "US Mid Atlantic (PA, NJ, MD, DE, DC, VA, WV)"
+                            }
+                        ],
+                        "publisher": [
+                            {
+                                "label": "Scientific Name",
+                                "content": "Aphaenogaster rudis"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Education & Outreach"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Collecting Locality",
+                                "content": "North America, United States, Virginia, Russell County"
+                            }
+                        ],
+                        "taxonomicName": [
+                            {
+                                "label": "Taxonomy",
+                                "content": "Animalia, Arthropoda, Hexapoda, Insecta, Hymenoptera, Formicidae, Myrmicinae"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Type",
+                                "content": "Education and Outreach collections"
+                            }
+                        ]
+                    }
+                },
+                "hash": "fc0dd378b491655d652d4e9e0b1a0be94844a40f",
+                "docSignature": "1cb5d1ffeea5a8560ba863e184e6bb095764a239_9ae02caf12ec7175c3ea26c25323b6c2",
+                "timestamp": "1593595041",
+                "lastTimeUpdated": "1593595039",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnheducation_10002824",
+                "title": "Red Carpenter Ant, Ant",
+                "unitCode": "NMNHEDUCATION",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnheducation_10002824",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnheducation_10002824",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m34b24d1cc182c4166ac1b93ed43e20db9/90",
+                                    "idsId": "ark:/65665/m34b24d1cc182c4166ac1b93ed43e20db9",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/m34b24d1cc-182c-4166-ac1b-93ed43e20db9",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService/id/ark:/65665/m34b24d1cc182c4166ac1b93ed43e20db9",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution JPEG (2500x2500)",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022043_Ant_Camponotus_ferrugineus_001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022043_Ant_Camponotus_ferrugineus_001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NMNH-EO_022043_Ant_Camponotus_ferrugineus_001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "guid": "http://n2t.net/ark:/65665/3534ef3c6-3de9-45eb-b4cc-c9fb443c7280",
+                        "title_sort": "RED CARPENTER ANT ANT",
+                        "unit_code": "NMNHEDUCATION",
+                        "record_link": "http://n2t.net/ark:/65665/3534ef3c6-3de9-45eb-b4cc-c9fb443c7280",
+                        "title": {
+                            "label": "title",
+                            "content": "Red Carpenter Ant, Ant"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Education & Outreach"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1940s"
+                        ],
+                        "object_type": [
+                            "Education and Outreach collections"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "scientific_name": [
+                            "Camponotus chromaiodes"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States"
+                                },
+                                "L3": {
+                                    "type": "State",
+                                    "content": "Vermont"
+                                },
+                                "Other": {
+                                    "type": "Locality",
+                                    "content": "Mt. Mansfield, at 4300 ft"
+                                }
+                            }
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "topic": [
+                            "Insects"
+                        ],
+                        "place": [
+                            "Vermont",
+                            "United States"
+                        ],
+                        "common_name": [
+                            "Red Carpenter Ant, Ant"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Collection Date",
+                                "content": "1947"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Q?rius, The Coralyn W. Whitney Science Education Center"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "USNM Number",
+                                "content": "EO22043"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Description",
+                                "content": "This object is part of the Education and Outreach collection, some of which are in the Q?rius science education center and available to see."
+                            },
+                            {
+                                "label": "Number of objects in this record",
+                                "content": "3"
+                            },
+                            {
+                                "label": "Record Last Modified",
+                                "content": "19 Jun 2020"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Discipline",
+                                "content": "Entomology"
+                            },
+                            {
+                                "label": "Region",
+                                "content": "US Northeast (NY, CT, RI, MA, VT, NH, ME)"
+                            }
+                        ],
+                        "publisher": [
+                            {
+                                "label": "Scientific Name",
+                                "content": "Camponotus chromaiodes"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Education & Outreach"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Collecting Locality",
+                                "content": "Mt. Mansfield, at 4300 ft, North America, United States, Vermont"
+                            }
+                        ],
+                        "taxonomicName": [
+                            {
+                                "label": "Taxonomy",
+                                "content": "Animalia, Arthropoda, Hexapoda, Insecta, Hymenoptera, Formicidae"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Type",
+                                "content": "Education and Outreach collections"
+                            }
+                        ]
+                    }
+                },
+                "hash": "c81dc765aef4f85afc1aa7a5ad412e716a7bd037",
+                "docSignature": "440cba43a30fb61b57e2e532a924b20bea102850_cdb69b5e8b9ee52a6e203b6bd9c95753",
+                "timestamp": "1593595041",
+                "lastTimeUpdated": "1593595039",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_326227",
+                "title": "An account of English ants : which contains I. Their different species and mechanism. II. Their manner of government, and a description of their several queens. III. The production of their eggs, and process of the young. IV. The incessant labours of the workers or common ants : with many other curiosities observable in these surprising insects / by the Rev. William Gould ..",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_326227",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_326227",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://doi.org/10.5962/bhl.title.168572"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "ACCOUNT OF ENGLISH ANTS : WHICH CONTAINS I THEIR DIFFERENT SPECIES AND MECHANISM II THEIR MANNER OF GOVERNMENT AND A DESCRIPTION OF THEIR SEVERAL QUEENS III THE PRODUCTION OF THEIR EGGS AND PROCESS OF THE YOUNG IV THE INCESSANT LABOURS OF THE WORKERS OR COMMON ANTS : WITH MANY OTHER CURIOSITIES OBSERVABLE IN THESE SURPRISING INSECTS BY THE REV WILLIAM GOULD",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!326227~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "An account of English ants : which contains I. Their different species and mechanism. II. Their manner of government, and a description of their several queens. III. The production of their eggs, and process of the young. IV. The incessant labours of the workers or common ants : with many other curiosities observable in these surprising insects / by the Rev. William Gould .."
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1740s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Burndy Library",
+                            "Gould, William"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Insects"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "place": [
+                            "Great Britain"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1747"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL568.F7 G68 1747"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QL568.F7G68 1747"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Publisher's advertisement: p. [111]-[112]."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Gould, William 1973-"
+                            },
+                            {
+                                "label": "donor",
+                                "content": "Burndy Library DSI"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Insects"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "Great Britain"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "[16], 109, [3] p. ; 17 cm. (8vo)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "6a9512dbf573c98b0583b223f228eb3d0ad59cc4",
+                "docSignature": "a0e7ca8400d401c752946c93b31820df52684f5d_052c4a0a19ddbe2e1d3ef06b43842bd9",
+                "timestamp": "1596787912",
+                "lastTimeUpdated": "1596787909",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_169217",
+                "title": "An account of English ants which contains their different species and mechanisms ; their manner of government and a description of their several queens ; the production of their eggs and process of the young ; the incessant labours of the workers or common ants with many other curiosities observable in these surprising insects",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_169217",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_169217",
+                        "unit_code": "SIL",
+                        "title_sort": "ACCOUNT OF ENGLISH ANTS WHICH CONTAINS THEIR DIFFERENT SPECIES AND MECHANISMS THEIR MANNER OF GOVERNMENT AND A DESCRIPTION OF THEIR SEVERAL QUEENS THE PRODUCTION OF THEIR EGGS AND PROCESS OF THE YOUNG THE INCESSANT LABOURS OF THE WORKERS OR COMMON ANTS WITH MANY OTHER CURIOSITIES OBSERVABLE IN THESE SURPRISING INSECTS",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!169217~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "An account of English ants which contains their different species and mechanisms ; their manner of government and a description of their several queens ; the production of their eggs and process of the young ; the incessant labours of the workers or common ants with many other curiosities observable in these surprising insects"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1740s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Manuscripts (documents).)",
+                            "Reference sources",
+                            "Manuscripts (documents)"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Burndy Library",
+                            "Dibner, Bern",
+                            "Burndy Library Manuscripts Collection (Smithsonian Libraries)",
+                            "Gould, William"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Technology",
+                            "Science",
+                            "History"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1745"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "MSS 000226 B"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "MS of work published 1747"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Smithsonian Institution Libraries. Manuscripts of the Dibner collection, 201"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Collected by Bern Dibner for his Burndy Library in Norwalk, Connecticut, founded in 1941. Donated to the Smithsonian Libraries in 1974 by Dibner DSI"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Gould, William 1973-"
+                            },
+                            {
+                                "label": "donor",
+                                "content": "Dibner, Bern DSI"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Burndy Library Manuscripts Collection (Smithsonian Libraries) DSI"
+                            },
+                            {
+                                "label": "donor",
+                                "content": "Burndy Library DSI"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Science--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Technology--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Science"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Technology"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "[3], 100, [2] pages ; 22 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Manuscripts"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Manuscripts (documents).)"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Sources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "efeac5de2aa72604c9a24175fe59f9317c43a063",
+                "docSignature": "740674394cc41ec802cdaa6a943a112e3ecabb79_3c54b9da41fa3d6b794e477399c4afe6",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453417",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_305341",
+                "title": "Ants, bees, and wasps ; a record of observations on the habits of the social Hymenoptera / by John Lubbock",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_305341",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_305341",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://doi.org/10.5962/bhl.title.9104"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "ANTS BEES AND WASPS A RECORD OF OBSERVATIONS ON THE HABITS OF THE SOCIAL HYMENOPTERA BY JOHN LUBBOCK",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!305341~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Ants, bees, and wasps ; a record of observations on the habits of the social Hymenoptera / by John Lubbock"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1890s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Lubbock, John"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Wasps",
+                            "Bees"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1897"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2 A8 1897Z"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2A8 1897Z"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Includes index."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Lubbock, John Sir 1834-1913"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Bees"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Wasps"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "xix, 448 p., 5 p. of plates : ill. ; 20 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "9170e4f8b5b27edbcb4eb2899bc38420b44a90f6",
+                "docSignature": "5c880185dfd24b5218bd793f0e98cfff37414101_29ccd6bb1e9d6796a55766bdd549fec6",
+                "timestamp": "1582103476",
+                "lastTimeUpdated": "1582103462",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_102429",
+                "title": "Ants, bees, and wasps : a record of observations on the habits of the social Hymenoptera / by Sir John Lubbock [i.e. Lord Avebury]",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_102429",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_102429",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://doi.org/10.5962/bhl.title.16076"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "ANTS BEES AND WASPS : A RECORD OF OBSERVATIONS ON THE HABITS OF THE SOCIAL HYMENOPTERA BY SIR JOHN LUBBOCK IE LORD AVEBURY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!102429~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Ants, bees, and wasps : a record of observations on the habits of the social Hymenoptera / by Sir John Lubbock [i.e. Lord Avebury]"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1910s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Lubbock, John"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Wasps",
+                            "Bees"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1915"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2A94 1915"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Includes index."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Lubbock, John Sir 1834-1913"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Bees"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Wasps"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "xvii, 436 p., 7 leaves of plates (1 fold.) : ill. (some col.) ; 19 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "a2a519a041dab52b7afcfc70467e6d9705a53c86",
+                "docSignature": "55a699f9ae7401a1953f0441b107f32c36b13164_6cdbae0639c628c304b763a8b2314355",
+                "timestamp": "1582103476",
+                "lastTimeUpdated": "1582103455",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_64020",
+                "title": "Ants, bees, and wasps. A record of observations on the habits of the social Hymenoptera. By Sir John Lubbock",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_64020",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_64020",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://doi.org/10.5962/bhl.title.9098"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "ANTS BEES AND WASPS A RECORD OF OBSERVATIONS ON THE HABITS OF THE SOCIAL HYMENOPTERA BY SIR JOHN LUBBOCK",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!64020~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Ants, bees, and wasps. A record of observations on the habits of the social Hymenoptera. By Sir John Lubbock"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1880s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Lubbock, John"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Wasps",
+                            "Bees"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1882"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2 A94"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2A94"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "\"List of the principal books and memoirs referred to\": p. [xvii]-xix."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Lubbock, John Sir 1834-1913"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Bees"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Wasps"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "xix, 448 p. illus., 5 col. pl. 20 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "b73340cbb28a675de06dba32eab2b68cdb2910df",
+                "docSignature": "e2e8b67700e00ccb3c83cd2ffac4f39f04afd31e_db2b8763e72be6e9863a1f987c67b9d8",
+                "timestamp": "1582103476",
+                "lastTimeUpdated": "1582103453",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_292775",
+                "title": "Ants, bees, and wasps : a record of observations on the habits of the social hymenoptera / by Sir John Lubbock",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_292775",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_292775",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://doi.org/10.5962/bhl.title.9106"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "ANTS BEES AND WASPS : A RECORD OF OBSERVATIONS ON THE HABITS OF THE SOCIAL HYMENOPTERA BY SIR JOHN LUBBOCK",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!292775~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Ants, bees, and wasps : a record of observations on the habits of the social hymenoptera / by Sir John Lubbock"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1880s"
+                        ],
+                        "tax_family": [
+                            "Formicidae"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "tax_order": [
+                            "Hymenoptera"
+                        ],
+                        "name": [
+                            "Lubbock, John"
+                        ],
+                        "topic": [
+                            "Ants",
+                            "Wasps",
+                            "Bees"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1882"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2 A94 1882"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QL568.A2A94 1882"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Includes index."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Lubbock, John Sir 1834-1913"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ants"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Bees"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Wasps"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "xix, 448 p., 5 leaves of plates : ill. ; 19 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "b886b66f1ced66705271e0c43e7cb1e3f2c65418",
+                "docSignature": "a78ad70517d969f9c775b08949762bcf241ed000_7f7c00c30cb939071c814b962acfb05c",
+                "timestamp": "1582103476",
+                "lastTimeUpdated": "1582103462",
+                "version": ""
+            }
+        ],
+        "rowCount": 17264,
+        "message": "content found"
+    }
+}

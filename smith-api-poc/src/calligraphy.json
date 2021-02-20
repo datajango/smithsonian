@@ -1,0 +1,1315 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-siris_sil_1031820",
+                "title": "Moji no chikara, sho no chikara [henshu\u0304 Zaidan ho\u0304jin Idemitsu Bijutsukan]",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1031820",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1031820",
+                        "unit_code": "SIL",
+                        "title_sort": "MOJI NO CHIKARA SHO NO CHIKARA HENSHU\u0304 ZAIDAN HO\u0304JIN IDEMITSU BIJUTSUKAN",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1031820~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Moji no chikara, sho no chikara [henshu\u0304 Zaidan ho\u0304jin Idemitsu Bijutsukan]"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2000s"
+                        ],
+                        "object_type": [
+                            "Exhibition catalogs",
+                            "Exhibitions (events)"
+                        ],
+                        "name": [
+                            "Idemitsu Bijutsukan (Tokyo, Japan)",
+                            "\u51fa\u5149\u7f8e\u8853\u9928 (Tokyo, Japan)"
+                        ],
+                        "topic": [
+                            "Calligraphy, Japanese",
+                            "Calligraphy, Chinese",
+                            "History"
+                        ],
+                        "language": [
+                            "English language",
+                            "Japanese language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2009"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "NK3637.A2 M65 2009"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Catalog of exhibitionS held at Idemitsu Bijutsukan"
+                            },
+                            {
+                                "label": "Contents",
+                                "content": "880-03 [1]. Koten to gendai no taiwa = A dialogue between classics and contemporary work -- 2. Sho to kaiga no taiwa = A dialogue between calligraphy and painting -- 3. Sho no ryu\u0304gi = Styles of calligraphy"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Idemitsu Bijutsukan (Tokyo, Japan)"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Japanese--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Japanese"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "\u6587\u5b57\u306e\u529b\u30fb\u66f8\u306e\u30c1\u30ab\u30e9 / [\u7de8\u96c6\u8ca1\u56e3\u6cd5\u4eba\u51fa\u5149\u7f8e\u8853\u9928]"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Power of characters, the power of calligraphy A dialogue between classics and contemporary work"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "volumes color illustrations 30 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Exhibitions"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Exhibition catalogs"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            }
+                        ]
+                    }
+                },
+                "hash": "830eca3a64225410b11bcfde8971e68db44d1a3a",
+                "docSignature": "c7a7ddff7d1466ac60f81a4aa9cd3536b1041011_39d6e03c847186f04294527d33b936bb",
+                "timestamp": "1609492232",
+                "lastTimeUpdated": "1609492232",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1118592",
+                "title": "Fragrance of ink, calligraphy of Joseon Court : calligraphy of Joseon Court at the National Museum of Korea : fine arts gallery theme exhibition",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1118592",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1118592",
+                        "unit_code": "SIL",
+                        "title_sort": "FRAGRANCE OF INK CALLIGRAPHY OF JOSEON COURT : CALLIGRAPHY OF JOSEON COURT AT THE NATIONAL MUSEUM OF KOREA : FINE ARTS GALLERY THEME EXHIBITION",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1118592~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Fragrance of ink, calligraphy of Joseon Court : calligraphy of Joseon Court at the National Museum of Korea : fine arts gallery theme exhibition"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2000s"
+                        ],
+                        "object_type": [
+                            "Books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2006"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            }
+                        ]
+                    }
+                },
+                "hash": "c54859153376281f82f6d87af4764548436eef76",
+                "docSignature": "a525a0a8d5c5efdaefa0a30d7bf2fcf3b73597b1_e200eefa0dfcb9a10f99c106249146cd",
+                "timestamp": "1587543040",
+                "lastTimeUpdated": "1587543039",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1107349",
+                "title": "How to read Islamic calligraphy / Maryam D. Ekhtiar",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1107349",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1107349",
+                        "unit_code": "SIL",
+                        "title_sort": "HOW TO READ ISLAMIC CALLIGRAPHY MARYAM D EKHTIAR",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1107349~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "How to read Islamic calligraphy / Maryam D. Ekhtiar"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "object_type": [
+                            "Catalogs"
+                        ],
+                        "name": [
+                            "Metropolitan Museum of Art (New York, N.Y.)",
+                            "Ekhtiar, Maryam"
+                        ],
+                        "topic": [
+                            "Islamic calligraphy",
+                            "Themes, motives"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2018"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Contents",
+                                "content": "Introduction -- The Arabic script : origins, development, and variations -- Embellishing the word of God : Arabic and the art of the Qur'an -- Ornament and abstraction : the triumph of form over content"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "\"For centuries, Islamic calligraphy has mesmerized viewers with its beauty, sophistication, and seemingly endless variety of styles. How to Read Islamic Calligraphy offers new perspectives on this distinctive art form, using examples from The Met's superlative collections to explore the enduring preeminence of the written word as a means of creative expression throughout the Islamic world. Combining engaging, accessible texts with stunning new photography, How to Read Islamic Calligraphy introduces readers to the major Islamic script types and explains the various contexts, whether secular or sacred, in which each one came to be used. Beauty and brilliance emerge in equal measure from works of every medium, from lavishly illuminated Qur'an manuscripts, to glassware etched with poetic verses, to ceramic tiles brushed with benedictions. The sheer breadth of objects illustrated in these pages exemplifies the ubiquity of calligraphy, and provides a compelling introduction to this unique art form.\"-- Publisher's description"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Ekhtiar, Maryam"
+                            },
+                            {
+                                "label": "issuing body",
+                                "content": "Metropolitan Museum of Art (New York, N.Y.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Metropolitan Museum of Art (New York, N.Y.) Department of Islamic Art"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Islamic calligraphy--Themes, motives"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "155 pages : illustrations (chiefly color), map ; 27 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Catalogs"
+                            }
+                        ]
+                    }
+                },
+                "hash": "77858bfb3419f3949cd5f6b17f1d144b0e1d2109",
+                "docSignature": "43fb19cedd18e0bf88d589825e1c9f33c6e76a28_6eec9ed440e64f977cff6eed7e427bc4",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453426",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_947423",
+                "title": "Taibei, Guo li gu gong bo wu yuan zhen cang shu hua = Fine reproductions : masterpieces of Chinese painting and calligraphy in the National Palace Museum, Taipei",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_947423",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_947423",
+                        "unit_code": "SIL",
+                        "title_sort": "TAIBEI GUO LI GU GONG BO WU YUAN ZHEN CANG SHU HUA = FINE REPRODUCTIONS : MASTERPIECES OF CHINESE PAINTING AND CALLIGRAPHY IN THE NATIONAL PALACE MUSEUM TAIPEI",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!947423~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Taibei, Guo li gu gong bo wu yuan zhen cang shu hua = Fine reproductions : masterpieces of Chinese painting and calligraphy in the National Palace Museum, Taipei"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1990s"
+                        ],
+                        "object_type": [
+                            "Catalogs"
+                        ],
+                        "name": [
+                            "\u570b\u7acb\u6545\u5bae\u535a\u7269\u9662 Catalogs",
+                            "Gu gong bo wu yuan (China)",
+                            "\u4e8c\u7384\u793e",
+                            "Guo li gu gong bo wu yuan",
+                            "Nigensha",
+                            "\u570b\u7acb\u6545\u5bae\u535a\u7269\u9662"
+                        ],
+                        "topic": [
+                            "Reproduction",
+                            "Painting, Chinese",
+                            "Calligraphy, Chinese"
+                        ],
+                        "language": [
+                            "English language",
+                            "Chinese language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1996"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "ND1042 .G86b"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Guo li gu gong bo wu yuan"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Nigensha"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Gu gong bo wu yuan (China)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Guo li gu gong bo wu yuan"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Gu gong bo wu yuan (China)"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese--Reproduction"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Painting, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Painting, Chinese--Reproduction"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "\u53f0\u5317\u30fb\u570b\u7acb\u6545\u5bae\u535a\u7269\u9662\u73cd\u85cf\u66f8\u756b = Fine reproductions : masterpieces of Chinese painting and calligraphy in the National Palace Museum, Taipei"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Taibei Guo li gu gong bo wu yuan zhen cang shu hua"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "\u53f0\u5317\u570b\u7acb\u6545\u5bae\u535a\u7269\u9662\u73cd\u85cf\u66f8\u756b"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Masterpieces of Chinese painting and calligraphy in the National Palace Museum, Taipei"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Fine reproductions masterpieces of Chinese painting and calligraphy in the National Palace Museum, Taipei"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "136 pages chiefly color illustrations 30 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Catalogs"
+                            }
+                        ]
+                    }
+                },
+                "hash": "59a71aba13b6b286b4dcb1c7ee14d2ef814f2cb2",
+                "docSignature": "6d9fbb20aeb982b0396027640c04de28c3dd5634_58e59e86a2d1315b22f3e9657e8bffad",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453422",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhanthropology_8430767",
+                "title": "Framed Calligraphy",
+                "unitCode": "NMNHANTHRO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhanthropology_8430767",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhanthropology_8430767",
+                        "guid": "http://n2t.net/ark:/65665/39b2b49e9-7492-49ab-868d-8e7acc7e3381",
+                        "title_sort": "FRAMED CALLIGRAPHY",
+                        "unit_code": "NMNHANTHRO",
+                        "record_link": "http://n2t.net/ark:/65665/39b2b49e9-7492-49ab-868d-8e7acc7e3381",
+                        "title": {
+                            "label": "title",
+                            "content": "Framed Calligraphy"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Anthropology Dept."
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1960s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "Korea"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Calligraphy (visual works)"
+                        ],
+                        "name": [
+                            "Republic Of Korea, Seoul"
+                        ],
+                        "topic": [
+                            "Anthropology",
+                            "Ethnology"
+                        ],
+                        "place": [
+                            "Asia",
+                            "Korea"
+                        ],
+                        "online_media_type": [
+                            "Catalog cards"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Accession Date",
+                                "content": "15 Aug 1964"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Anthropology"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "247433"
+                            },
+                            {
+                                "label": "USNM Number",
+                                "content": "E401677-0"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "26 Mar 2015"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Donor Name",
+                                "content": "Republic Of Korea, Seoul"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ethnology"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "Korea, Asia"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Anthropology Dept."
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Type",
+                                "content": "Calligraphy"
+                            }
+                        ]
+                    }
+                },
+                "hash": "19bc62e4ea6f4ab711b92779d62d90e112d7d862",
+                "docSignature": "c2924d2ac7cc28f4e390973f39bd23c70dd5d77f_eb981b760995aafca00a3079f40cd4a2",
+                "timestamp": "1581932654",
+                "lastTimeUpdated": "1581932611",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhanthropology_8443456",
+                "title": "Sample Of Marble Inlaid Calligraphy",
+                "unitCode": "NMNHANTHRO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhanthropology_8443456",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhanthropology_8443456",
+                        "guid": "http://n2t.net/ark:/65665/32095fb31-008f-4c03-8f7a-1fc53490c925",
+                        "title_sort": "SAMPLE OF MARBLE INLAID CALLIGRAPHY",
+                        "unit_code": "NMNHANTHRO",
+                        "record_link": "http://n2t.net/ark:/65665/32095fb31-008f-4c03-8f7a-1fc53490c925",
+                        "title": {
+                            "label": "title",
+                            "content": "Sample Of Marble Inlaid Calligraphy"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Anthropology Dept."
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1970s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "Pakistan"
+                                },
+                                "L3": {
+                                    "type": "State",
+                                    "content": "West Pakistan"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Calligraphy (visual works)"
+                        ],
+                        "culture": [
+                            "Pushtuns"
+                        ],
+                        "name": [
+                            "Dr. Donald M. Godden"
+                        ],
+                        "topic": [
+                            "Anthropology",
+                            "Ethnology"
+                        ],
+                        "place": [
+                            "Pakistan",
+                            "West Pakistan",
+                            "Asia"
+                        ],
+                        "online_media_type": [
+                            "Catalog cards"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Accession Date",
+                                "content": "2 Aug 1971"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Anthropology"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "296278"
+                            },
+                            {
+                                "label": "USNM Number",
+                                "content": "E412648-0"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "1 Dec 2014"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "culture": [
+                            {
+                                "label": "Culture",
+                                "content": "Pushtu"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Donor Name",
+                                "content": "Dr. Donald M. Godden"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ethnology"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "West Pakistan, Pakistan, Asia"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Anthropology Dept."
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Type",
+                                "content": "Calligraphy"
+                            }
+                        ]
+                    }
+                },
+                "hash": "6b33ea4cf7e2820d4b626a12d828ac188c665a12",
+                "docSignature": "5dde1f887e523624b20a16eac801ea2dc744709a_06736d7df3b81b0f0b301ce1a1875e4f",
+                "timestamp": "1581932660",
+                "lastTimeUpdated": "1581932616",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhanthropology_8430766",
+                "title": "Framed Calligraphy",
+                "unitCode": "NMNHANTHRO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhanthropology_8430766",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhanthropology_8430766",
+                        "guid": "http://n2t.net/ark:/65665/3d99adf27-8e22-43f0-ab36-da097e182cc9",
+                        "title_sort": "FRAMED CALLIGRAPHY",
+                        "unit_code": "NMNHANTHRO",
+                        "record_link": "http://n2t.net/ark:/65665/3d99adf27-8e22-43f0-ab36-da097e182cc9",
+                        "title": {
+                            "label": "title",
+                            "content": "Framed Calligraphy"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Anthropology Dept."
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1960s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "Korea"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Calligraphy (visual works)"
+                        ],
+                        "name": [
+                            "Republic Of Korea, Seoul"
+                        ],
+                        "topic": [
+                            "Anthropology",
+                            "Ethnology"
+                        ],
+                        "place": [
+                            "Asia",
+                            "Korea"
+                        ],
+                        "online_media_type": [
+                            "Catalog cards"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Accession Date",
+                                "content": "15 Aug 1964"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Anthropology"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Accession Number",
+                                "content": "247433"
+                            },
+                            {
+                                "label": "USNM Number",
+                                "content": "E401676-0"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "26 Mar 2015"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Donor Name",
+                                "content": "Republic Of Korea, Seoul"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Ethnology"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "Korea, Asia"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Anthropology Dept."
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Type",
+                                "content": "Calligraphy"
+                            }
+                        ]
+                    }
+                },
+                "hash": "e72975052dcecd48eee261cc7fc07939adb587ad",
+                "docSignature": "be1de454462e8f4a9412a76661e2d905471f8131_feb989564d460c35d06dccc891bfc07d",
+                "timestamp": "1581932654",
+                "lastTimeUpdated": "1581932611",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_841803",
+                "title": "Bei lin ji kan Xi'an bei lin bo wu guan bian",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_841803",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_841803",
+                        "unit_code": "SIL",
+                        "title_sort": "BEI LIN JI KAN XIAN BEI LIN BO WU GUAN BIAN",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!841803~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Bei lin ji kan Xi'an bei lin bo wu guan bian"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1920s",
+                            "2010s",
+                            "1910s",
+                            "1940s",
+                            "1930s",
+                            "1900s",
+                            "1990s",
+                            "1960s",
+                            "1950s",
+                            "1980s",
+                            "1970s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "People's Republic of China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Periodicals"
+                        ],
+                        "name": [
+                            "Xi'an bei lin bo wu guan",
+                            "\u897f\u5b89\u7891\u6797\u535a\u7269\u9986"
+                        ],
+                        "topic": [
+                            "Stele (Archaeology)",
+                            "Calligraphy",
+                            "Antiquities",
+                            "Calligraphy, Chinese"
+                        ],
+                        "language": [
+                            "Chinese language"
+                        ],
+                        "place": [
+                            "Xi'an (Shaanxi Sheng, China)",
+                            "China",
+                            "Xi'an (Shaanxi Sheng)"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "19uu"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "2016"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "P"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Xi'an bei lin bo wu guan"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Stele (Archaeology)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Antiquities"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Xi'an (Shaanxi Sheng)"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Xi'an (Shaanxi Sheng, China)"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "\u897f\u5b89 : \u9655\u897f\u4eba\u6c11\u7f8e\u8853\u51fa\u7248\u793e"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "volumes illustrations 26 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "59989a7b0da4b6f2c538d75dd1ea4318ddc68d65",
+                "docSignature": "c807229184823dcca5bee04531cd75b2077b4b36_91cc6f9f32c20d845094b09d708eb44f",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453421",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1117950",
+                "title": "Bei lin lun cong Xi'an bei lin bo wu guan bian",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1117950",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1117950",
+                        "unit_code": "SIL",
+                        "title_sort": "BEI LIN LUN CONG XIAN BEI LIN BO WU GUAN BIAN",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1117950~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Bei lin lun cong Xi'an bei lin bo wu guan bian"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "People's Republic of China"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Periodicals"
+                        ],
+                        "name": [
+                            "Xi'an bei lin bo wu guan",
+                            "\u897f\u5b89\u7891\u6797\u535a\u7269\u9986 editor"
+                        ],
+                        "topic": [
+                            "Stele (Archaeology)",
+                            "Calligraphy",
+                            "Antiquities",
+                            "Calligraphy, Chinese"
+                        ],
+                        "language": [
+                            "English language",
+                            "Chinese language"
+                        ],
+                        "place": [
+                            "Xi'an (Shaanxi Sheng, China)",
+                            "China",
+                            "Xi'an (Shaanxi Sheng)"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2018"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "P"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "editor",
+                                "content": "Xi'an bei lin bo wu guan"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Stele (Archaeology)"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Antiquities"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Xi'an (Shaanxi Sheng)"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Xi'an (Shaanxi Sheng, China)"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "\u7891\u6797\u8bba\u4e1b / \u897f\u5b89\u7891\u6797\u535a\u7269\u9986\u7f16"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "volumes illustrations 26 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "9fd7be4acc0b66d1d2a2c3790aaf14383d7a61f9",
+                "docSignature": "ee839a224fb08d518c0f90f1714717dc28a6d6d0_5389ec4a107a0b0597d384b7e16d83a6",
+                "timestamp": "1601674925",
+                "lastTimeUpdated": "1601453429",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_995783",
+                "title": "Zenga o yomu Kageyama Sumio",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_995783",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_995783",
+                        "unit_code": "SIL",
+                        "title_sort": "ZENGA O YOMU KAGEYAMA SUMIO",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!995783~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Zenga o yomu Kageyama Sumio"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "People's Republic of China"
+                                }
+                            },
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Asia"
+                                },
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "Japan"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Books"
+                        ],
+                        "name": [
+                            "\u5f71\u5c71\u7d14\u592b 1947-",
+                            "Kageyama, Sumio"
+                        ],
+                        "topic": [
+                            "Schriftkunst",
+                            "Zen-Buddhismus",
+                            "Zenmalerei",
+                            "Calligraphy, Japanese",
+                            "Kalligraphie",
+                            "Calligraphy, Chinese",
+                            "Zenshubijutsu",
+                            "Zen painting",
+                            "Zen art",
+                            "Malerei"
+                        ],
+                        "language": [
+                            "Japanese language"
+                        ],
+                        "place": [
+                            "China",
+                            "Japan"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2011"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Kageyama, Sumio 1947-"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Chinese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Calligraphy, Japanese"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Zen painting"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Zen art"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Kalligraphie"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Malerei"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Schriftkunst"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Zen-Buddhismus"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Zenmalerei"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Zenshubijutsu"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "China"
+                            },
+                            {
+                                "label": "Place",
+                                "content": "Japan"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "\u7985\u753b\u3092\u8aad\u3080 / \u5f71\u5c71\u7d14\u592b"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "127 pages illustrations, maps 19 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            }
+                        ]
+                    }
+                },
+                "hash": "44d5651e4f3344b07c2d85f6a059156dcd97e988",
+                "docSignature": "b6edbcfd820b64e3fdff58a41ccabf1ec0aac2c1_f572d8bc0beaa1ebd87967ffadbdada0",
+                "timestamp": "1603354223",
+                "lastTimeUpdated": "1603354222",
+                "version": ""
+            }
+        ],
+        "rowCount": 157,
+        "message": "content found"
+    }
+}

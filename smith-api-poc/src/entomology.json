@@ -1,0 +1,1214 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-siris_sil_343924",
+                "title": "British journal of entomology and natural history / British Entomological and Natural History Society",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_343924",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_343924",
+                        "unit_code": "SIL",
+                        "title_sort": "BRITISH JOURNAL OF ENTOMOLOGY AND NATURAL HISTORY BRITISH ENTOMOLOGICAL AND NATURAL HISTORY SOCIETY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!343924~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "British journal of entomology and natural history / British Entomological and Natural History Society"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1980s"
+                        ],
+                        "object_type": [
+                            "Periodicals",
+                            "Books"
+                        ],
+                        "name": [
+                            "British Entomological and Natural History Society"
+                        ],
+                        "topic": [
+                            "Entomology",
+                            "Natural History"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1988"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "1988-"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QH1 .B8522"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QH1.B8522"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Title from cover."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Incorporates the Society's Proceedings and transactions of the British Entomological and Natural History Society."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "British Entomological and Natural History Society"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Natural history"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Entomology"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "v. : ill. ; 21 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "29af7dabdcc4974a7416c55766f51582eeefc8f9",
+                "docSignature": "b8aa375c910c713da32b0ebbe256f81dc1800977_bbe92fc9be48473cc7a7d4c1410ff0e9",
+                "timestamp": "1596787912",
+                "lastTimeUpdated": "1596787911",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_191188",
+                "title": "The Canadian entomologist",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_191188",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_191188",
+                        "unit_code": "SIL",
+                        "title_sort": "CANADIAN ENTOMOLOGIST",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!191188~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "The Canadian entomologist"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1860s"
+                        ],
+                        "tax_phylum": [
+                            "Arthropoda"
+                        ],
+                        "object_type": [
+                            "Periodicals",
+                            "Books"
+                        ],
+                        "tax_class": [
+                            "Insecta"
+                        ],
+                        "name": [
+                            "Entomological Society of Canada (1863-1871)",
+                            "Entomological Society of Canada (1951- )",
+                            "Entomological Society of Ontario"
+                        ],
+                        "topic": [
+                            "Insects"
+                        ],
+                        "tax_kingdom": [
+                            "Animalia"
+                        ],
+                        "language": [
+                            "English language",
+                            "French language"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1868"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL461 .C2X"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Available on microfiche from University Microfilms International."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Available also by subscription via the World Wide Web; access available via SIL PURL."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Official organ of the Entomological Society of Canada (1951- ), June 1961- ."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Published by the Entomological Society of Canada (1863-1871), Aug. 1868-Dec. 1870; by the Entomological Society of Ontario, Apr. 1871-Dec. 1950; co-published by the Entomological Society of Canada (1951- ) and the Entomological Society of Ontario, Jan. 1951-May 1961; by the Entomological Society of Canada (1951- ), June 1961- ."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "ENT subscription changing to online-only for 2019."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Entomological Society of Canada (1863-1871)"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Entomological Society of Canada (1951- )"
+                            },
+                            {
+                                "label": "Author",
+                                "content": "Entomological Society of Ontario"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Insects"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "v. ill., plates. 22-27 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "e3ded04206d9dc685eb797d8b0f60fe3bbe98bc5",
+                "docSignature": "6c49eb2661113cb66da07f3c2148f46d4986d6a1_7525e8a1b2c5c1ca1acea9011aa0a306",
+                "timestamp": "1596787912",
+                "lastTimeUpdated": "1596787910",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_334064",
+                "title": "Pomona College journal of entomology",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_334064",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_334064",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "http://sirismm.si.edu/siris/ScannedBook.jpg",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "type": "Scanned books",
+                                    "content": "https://biodiversitylibrary.org/bibliography/8154"
+                                }
+                            ]
+                        },
+                        "unit_code": "SIL",
+                        "title_sort": "POMONA COLLEGE JOURNAL OF ENTOMOLOGY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!334064~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Pomona College journal of entomology"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1900s"
+                        ],
+                        "object_type": [
+                            "Periodicals",
+                            "Books"
+                        ],
+                        "name": [
+                            "Pomona College (Clarement, Calif.)"
+                        ],
+                        "topic": [
+                            "Entomology",
+                            "Periodicals"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "place": [
+                            "California"
+                        ],
+                        "usage_flag": [
+                            "BHLEX"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1909"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "[1909?-1912?]"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL461.J85X"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Title from cover."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Continued in Mar. 1913 by: Journal of entomology and zoology."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Pomona College (Clarement, Calif.) Department of Biology"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Entomology"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Entomology--Periodicals"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "California"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Journal of entomology"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Pomona journal of entomology Dec. 1909"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "3 v. : ill. ; 27 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "eeacd2a6f8e2f8d23ae7d9fe67ba6e82ca2bc74a",
+                "docSignature": "db3fbd3b0c644fb0952cfc695a6e770c174a48b4_93ede8c40bd6ab5f58c11b0acb316ae1",
+                "timestamp": "1582103476",
+                "lastTimeUpdated": "1582103463",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_526195",
+                "title": "XX International Congress of Entomology proceedings : Firenze, Italy, August 25-31, 1996",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_526195",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_526195",
+                        "unit_code": "SIL",
+                        "title_sort": "XX INTERNATIONAL CONGRESS OF ENTOMOLOGY PROCEEDINGS : FIRENZE ITALY AUGUST 2531 1996",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!526195~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "XX International Congress of Entomology proceedings : Firenze, Italy, August 25-31, 1996"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1990s"
+                        ],
+                        "object_type": [
+                            "Conferences",
+                            "Books"
+                        ],
+                        "name": [
+                            "International Congress of Entomology"
+                        ],
+                        "topic": [
+                            "Entomology"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1996"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL461 .I613 1996"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "International Congress of Entomology (20th : 1996 : Florence, Italy)"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Entomology"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "20th International Congress of Entomology proceedings"
+                            },
+                            {
+                                "label": "Title",
+                                "content": "Twentieth International Congress of Entomology proceedings"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "lvi, 820 p. : ill. ; 30 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Congresses"
+                            }
+                        ]
+                    }
+                },
+                "hash": "a2f651df96f11594b1a202468ba66d373fee1656",
+                "docSignature": "c04e92c9dc88e341a167d6e9662bd4bdf19aa440_bd336f95990b8a1d9f5ab1e8a3fe3997",
+                "timestamp": "1596787912",
+                "lastTimeUpdated": "1596787911",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_arc_217479",
+                "title": "Photographs and Biographical Information, 1797-1988 and undated",
+                "unitCode": "SIA",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_arc_217479",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_arc_217479",
+                        "unit_code": "SIA",
+                        "title_sort": "PHOTOGRAPHS AND BIOGRAPHICAL INFORMATION 17971988 AND UNDATED",
+                        "record_link": "https://siarchives.si.edu/collections/siris_arc_217479",
+                        "title": {
+                            "label": "Title",
+                            "content": "Photographs and Biographical Information, 1797-1988 and undated"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Institution Archives"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1800s",
+                            "1920s",
+                            "1810s",
+                            "1910s",
+                            "1820s",
+                            "1940s",
+                            "1830s",
+                            "1930s",
+                            "1900s",
+                            "1880s",
+                            "1890s",
+                            "1790s",
+                            "1840s",
+                            "1960s",
+                            "1850s",
+                            "1950s",
+                            "1860s",
+                            "1980s",
+                            "1870s",
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "Clippings (information artifacts)",
+                            "Archival materials",
+                            "Biographies",
+                            "Collection descriptions",
+                            "Photographs",
+                            "Manuscripts (documents)"
+                        ],
+                        "name": [
+                            {
+                                "type": "personal_subj",
+                                "content": "Schwarz, Eugene Amandus"
+                            },
+                            {
+                                "type": "personal_subj",
+                                "content": "Barber, Herbert Spencer"
+                            },
+                            {
+                                "type": "corporate_main",
+                                "content": "Systematic Entomology Laboratory (U.S.)"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Entomological Society of America"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Cambridge Entomological Club"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Royal Entomological Society of London"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "United States"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "United States National Museum"
+                            }
+                        ],
+                        "topic": [
+                            "Entomology",
+                            "Entomologists"
+                        ],
+                        "usage_flag": [
+                            "SuppressFromCSC",
+                            "Personal Paper Deposit"
+                        ],
+                        "online_media_type": [
+                            "Finding aids"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1797"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "1797-1988"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "1797-1988 and undated"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Local number",
+                                "content": "SIA RU007323"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "For an administrative history of the Systematic Entomology Laboratory, United States Department of Agriculture (USDA), see record unit 7309."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Description in control file."
+                            },
+                            {
+                                "label": "Addl. KW Subjects",
+                                "content": "(RU 7426)"
+                            },
+                            {
+                                "label": "Addl. KW Subjects",
+                                "content": "Advertising (RU 7309) 1890-1900 Massachusetts"
+                            },
+                            {
+                                "label": "Organization",
+                                "content": "(1) Biographical information primarily on dipterists, 1797-1988 and undated; (2) photographs of entomologists, 1878-1950 and undated"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "This record unit was created by combining two separate accessions containing biographical information and photographs of entomologists. The biographical material is varied, and includes obituaries, magazine and newspaper articles, correspondence, bibliographies, photographs, handwriting samples, book reviews, and biographical sketches. Information on a number of entomological societies such as the Cambridge Entomological Club, the Entomological Society of America, and the Royal Entomological Society of London, is also included."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "In addition, the collection contains photographs of entomologists collected for the most part by Eugene Amandus Schwarz and Herbert Spencer Barber, United States Department of Agriculture entomologists associated with the United States National Museum. Included are formal portraits, casual photographs, photographs taken during field work, and group photographs. There are also photographs of field work sites from around the world."
+                            },
+                            {
+                                "label": "Repository Loc.",
+                                "content": "Smithsonian Institution Archives, Capital Gallery, Suite 3000, MRC 507; 600 Maryland Avenue, SW; Washington, DC 20024-2520"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Creator",
+                                "content": "Systematic Entomology Laboratory (U.S.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Schwarz, Eugene Amandus 1844-1928"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Barber, Herbert Spencer 1882-1950"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Entomological Society of America"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Cambridge Entomological Club"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Royal Entomological Society of London"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "United States Department of Agriculture"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "United States National Museum"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Entomology"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Biography"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Entomologists"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "9.19 cu. ft. (17 document boxes) (1 16x20 box)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Institution Archives"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Black-and-white photographs"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Collection descriptions"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Clippings"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Manuscripts"
+                            }
+                        ]
+                    }
+                },
+                "hash": "45f3ac194064a0bba8a0a76e3780524d0ef75c25",
+                "docSignature": "cc647a0dc3c3fc454371ca7fccd7ca075dd8b142_a9dd219c63652eaf5c1fe2726191b8b7",
+                "timestamp": "1597997475",
+                "lastTimeUpdated": "1597997456",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_191251",
+                "title": "Journal of the Kansas Entomological Society",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_191251",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_191251",
+                        "unit_code": "SIL",
+                        "title_sort": "JOURNAL OF THE KANSAS ENTOMOLOGICAL SOCIETY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!191251~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Journal of the Kansas Entomological Society"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1920s"
+                        ],
+                        "object_type": [
+                            "Periodicals"
+                        ],
+                        "name": [
+                            "Kansas Entomological Society"
+                        ],
+                        "topic": [
+                            "Entomology"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1928"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Bibliography of agriculture 0006-1530"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Biological abstracts 0006-3169"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Chemical abstracts 0009-2258"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Available also by subscription via the World Wide Web; access available via SIL PURL."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Kansas Entomological Society"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Entomology"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "v. ill. 23 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Periodicals"
+                            }
+                        ]
+                    }
+                },
+                "hash": "1d543ffc8d6df8656e5181b7c481949179138366",
+                "docSignature": "5a892d236f36a5aa659945f526b26684ad989bec_78d8b97212b968ce86c7266977abe235",
+                "timestamp": "1584000620",
+                "lastTimeUpdated": "1584000618",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_191213",
+                "title": "Transactions of the Society for British entomology",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_191213",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_191213",
+                        "unit_code": "SIL",
+                        "title_sort": "TRANSACTIONS OF THE SOCIETY FOR BRITISH ENTOMOLOGY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!191213~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Transactions of the Society for British entomology"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1930s",
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "Books",
+                            "Electronic information resources"
+                        ],
+                        "name": [
+                            "Society for British Entomology"
+                        ],
+                        "topic": [
+                            "Entomology",
+                            "Societies"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "online_media_type": [
+                            "Scanned books"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1934"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "1971"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Call number",
+                                "content": "QL461.S69"
+                            },
+                            {
+                                "label": "Call number",
+                                "content": "QL461.S69"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Also available online."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Elecresource"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Author",
+                                "content": "Society for British Entomology"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Entomology--Societies, etc"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "v. ill. 25 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Electronic resources"
+                            }
+                        ]
+                    }
+                },
+                "hash": "4d68802b135c61d9f8b9e3bf4a9bc3d535e49c69",
+                "docSignature": "14bb64e63a259fe212b3900ada3b9747aeb5660d_eabd65d40a9408ece9bcf7d7503d5613",
+                "timestamp": "1596787912",
+                "lastTimeUpdated": "1596787910",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhentomology_12806339",
+                "title": "Entomology Types",
+                "unitCode": "NMNHENTO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhentomology_12806339",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhentomology_12806339",
+                        "guid": "http://n2t.net/ark:/65665/3c76a4f0a-46bc-414c-9238-edbc9a4f16ba",
+                        "title_sort": "ENTOMOLOGY TYPES",
+                        "unit_code": "NMNHENTO",
+                        "record_link": "http://n2t.net/ark:/65665/3c76a4f0a-46bc-414c-9238-edbc9a4f16ba",
+                        "title": {
+                            "label": "title",
+                            "content": "Entomology Types"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Entomology Dept."
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Entomology Types"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "2 Nov 2016"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Prep Count",
+                                "content": "1"
+                            },
+                            {
+                                "label": "Preparation",
+                                "content": "alcohol"
+                            },
+                            {
+                                "label": "Sex",
+                                "content": "Male"
+                            },
+                            {
+                                "label": "Stage",
+                                "content": "Adult"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Entomology Dept."
+                            }
+                        ]
+                    }
+                },
+                "hash": "0d46e65cf72fc2f703a425debad2d64a0bef39d9",
+                "docSignature": "0fd3cab6bd4eb124a4fb7319eba3447830582a95_6cc2dd76bc100284d2c0ddfec510d11b",
+                "timestamp": "1579275477",
+                "lastTimeUpdated": "1579275414",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhentomology_11602060",
+                "title": "Entomology Types",
+                "unitCode": "NMNHENTO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhentomology_11602060",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhentomology_11602060",
+                        "guid": "http://n2t.net/ark:/65665/36cbad69f-b62f-42c0-9194-68b764db85bb",
+                        "title_sort": "ENTOMOLOGY TYPES",
+                        "unit_code": "NMNHENTO",
+                        "record_link": "http://n2t.net/ark:/65665/36cbad69f-b62f-42c0-9194-68b764db85bb",
+                        "title": {
+                            "label": "title",
+                            "content": "Entomology Types"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Entomology Dept."
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Entomology Types"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "10 Mar 2015"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Prep Count",
+                                "content": "1"
+                            },
+                            {
+                                "label": "Preparation",
+                                "content": "Vial"
+                            },
+                            {
+                                "label": "Sex",
+                                "content": "Male"
+                            },
+                            {
+                                "label": "Stage",
+                                "content": "Adult"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Entomology Dept."
+                            }
+                        ]
+                    }
+                },
+                "hash": "e7d8b382522a1588146de7b97e21d807094e184f",
+                "docSignature": "239c11190d2d10c0d7b48ec8cbd250cdac643d2d_9461d1e525a3640464e3840bea6c830d",
+                "timestamp": "1579275360",
+                "lastTimeUpdated": "1579275282",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmnhentomology_15309223",
+                "title": "Entomology Types - Lepidoptera Types",
+                "unitCode": "NMNHENTO",
+                "type": "edanmdm",
+                "url": "edanmdm:nmnhentomology_15309223",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmnhentomology_15309223",
+                        "guid": "http://n2t.net/ark:/65665/36d12b2be-374d-4eed-b457-d2cbcca21cdc",
+                        "title_sort": "ENTOMOLOGY TYPES LEPIDOPTERA TYPES",
+                        "unit_code": "NMNHENTO",
+                        "record_link": "http://n2t.net/ark:/65665/36d12b2be-374d-4eed-b457-d2cbcca21cdc",
+                        "title": {
+                            "label": "title",
+                            "content": "Entomology Types - Lepidoptera Types"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "NMNH - Entomology Dept."
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Entomology Types"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Barcode",
+                                "content": "USNMENT01238495"
+                            },
+                            {
+                                "label": "Other Numbers",
+                                "content": "J.F.G.C. slide # : 10788"
+                            },
+                            {
+                                "label": "USNM Number",
+                                "content": "USNMENT1238495"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Record Last Modified",
+                                "content": "10 Jan 2020"
+                            },
+                            {
+                                "label": "Specimen Count",
+                                "content": "1"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "NMNH - Entomology Dept."
+                            }
+                        ]
+                    }
+                },
+                "hash": "e6f78c412a36c524ad53b000630423bfcf6e6200",
+                "docSignature": "938b5aad7e613610314c1b4d60a479b1b5e8f417_b1b70de68bbfc8078c8bf22e01f5550a",
+                "timestamp": "1579275607",
+                "lastTimeUpdated": "1579275538",
+                "version": ""
+            }
+        ],
+        "rowCount": 597478,
+        "message": "content found"
+    }
+}

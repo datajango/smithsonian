@@ -15,6 +15,14 @@ the Winter Doldrums](https://www.creativefuture.org/8-great-interactive-art-expe
 - [COOPER HEWITT INTERACTION LAB PRESENTS: ACTIVATING SMITHSONIAN OPEN ACCESS](https://www.cooperhewitt.org/activating-smithsonian-open-access/)
 - [ACTIVATING SMITHSONIAN OPEN ACCESS: INFORMATION SESSION](https://www.eventbrite.com/e/activating-smithsonian-open-access-information-session-tickets-138341106975)
 
+## API + GitHub
+
+- [Open Access Developer Tools](https://www.si.edu/openaccess/devtools)
+- [OpenAccess](https://github.com/Smithsonian/OpenAccess)
+- [Smithsonian Institution Open Access API API documentation](http://edan.si.edu/openaccess/apidocs/)
+- [Smithsonian Institution Enterprise Data Access Network + Open Access Initiative Content Repository](http://edan.si.edu/openaccess/docs/)
+
+
 ## JavaScript Libraries
 
 - [P5 JS](https://p5js.org/)

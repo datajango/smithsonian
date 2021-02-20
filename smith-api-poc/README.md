@@ -1,5 +1,17 @@
 # Smithsonian Open Access API Proof of Concept
 
+## Roadmap and Features
+
+This section details the current features of this POC and the roadmap for new features.
+
+| Feature Name                                    | Feature Description                                          | Branch                     | Status |
+| ----------------------------------------------- | ------------------------------------------------------------ | -------------------------- | ------ |
+| [keep_api_key_secret](./keep_api_key_secret.md) | Key Smithsonian Open Access API secret.                      | develop                    | Merged |
+| get_category_terms                              | Use Smithsonian Open Access API to fetch an array of terms based term category | feature/get_category_terms |        |
+|                                                 |                                                              |                            |        |
+
+
+
 ## Running
 
 ```

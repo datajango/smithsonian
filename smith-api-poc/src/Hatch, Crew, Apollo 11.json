@@ -1,0 +1,2343 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-nmah_1395642",
+                "title": "Apollo 11 Crew Patch Newspaper Clipping, United States, 1970",
+                "unitCode": "NMAH",
+                "type": "edanmdm",
+                "url": "edanmdm:nmah_1395642",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmah_1395642",
+                        "unit_code": "NMAH",
+                        "title_sort": "APOLLO 11 CREW PATCH NEWSPAPER CLIPPING, UNITED STATES, 1970",
+                        "guid": "http://n2t.net/ark:/65665/ng49ca746ad-37d8-704b-e053-15f76fa0b4fa",
+                        "title": {
+                            "label": "Title",
+                            "content": "Apollo 11 Crew Patch Newspaper Clipping, United States, 1970"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Museum of American History"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "newspaper clipping"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Science",
+                            "Art of Gasparro"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Work and Industry: National Numismatic Collection"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Art of Gasparro"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Coins, Currency and Medals"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "date made",
+                                "content": "ca 1970"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "ID Number",
+                                "content": "2009.0005.079"
+                            },
+                            {
+                                "label": "accession number",
+                                "content": "2009.0005"
+                            },
+                            {
+                                "label": "catalog number",
+                                "content": "2009.0005.079"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Description (Brief)",
+                                "content": "Before computers, artists kept files of images that they used for ideas and visual information. This clipping of the Apollo II insignia, from Frank Gasparro's private collection, may have been his inspiration for the reverse of the Dwight D. Eisenhower and Susan B. Anthony dollars."
+                            },
+                            {
+                                "label": "Location",
+                                "content": "Currently not on view"
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Christina Gasparro Hansen"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "subject",
+                                "content": "Art - Currency"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical Description",
+                                "content": "paper (overall material)"
+                            },
+                            {
+                                "label": "Physical Description",
+                                "content": "ink (overall material)"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "mat: 19.2 cm x 16.4 cm; 7 9/16 in x 6 7/16 in"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "clipping: 10 cm x 10.5 cm; 3 15/16 in x 4 1/8 in"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "crew patch: 9 cm; x 3 9/16 in"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Museum of American History"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Name",
+                                "content": "newspaper clipping"
+                            }
+                        ]
+                    }
+                },
+                "hash": "b812d68b9024e2c85784d2a919a6db4be9736641",
+                "docSignature": "3eb7342bbb324b011a36c9310b3af7ba009b46b0_89e89fed7ea3c27384f7c028a1869d34",
+                "timestamp": "1594110278",
+                "lastTimeUpdated": "1594110278",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19940223000",
+                "title": "Model, Rocket, Saturn V, 1:34",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19940223000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19940223000",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19940223000-NASM2018-10450-000001",
+                                    "idsId": "NASM-A19940223000-NASM2018-10450-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf45ca18e62-9d22-49c2-92c8-9f0e0d8fa124",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19940223000-NASM2018-10450-000001",
+                                    "text_equiv": "Scale model of black and white Saturn V Rocket with launch pad",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19940223000-NASM2018-10450-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7482x7482)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19940223000-NASM2018-10450-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19940223000-NASM2018-10450-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19940223000-NASM2018-10450-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "MODEL, ROCKET, SATURN V, 1:34",
+                        "guid": "http://n2t.net/ark:/65665/nv9bc630938-2757-410e-9b36-e9d2d83942fc",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19940223000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Model, Rocket, Saturn V, 1:34"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Missiles",
+                            "Models (representations)"
+                        ],
+                        "name": [
+                            "Gianakos, David P."
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Rockets",
+                            "Launch Vehicles",
+                            "Models"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19940223000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This is a 1:34 scale model of the Saturn V and its launch tower. The Saturn V was one of several rockets developed by the National Aeronautics and Space Administration for use in the Apollo program. America's largest operational launch vehicle, a Saturn V first launched a manned Apollo spacecraft in December 1968 when the crew of Apollo 8 were placed into lunar orbit. In July 1969, the rocket sent astronauts Neil Armstrong and Edward Aldrin, Jr. of Apollo 11 to the surface of the moon, while Michael Collins remained in lunar orbit. Saturn V was utilized in the remaining six Apollo missions to the moon during 1969-1972 and to launch the Skylab Orbital Workshop into Earth orbit in May 1973. David Gianakos built this model and donated it to NASM in 1975."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Gift of David Gianakos"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Manufacturer",
+                                "content": "David P. Gianakos"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Saturn V and Mobile Launcher 1:34 Scale"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Plastic and phenolic rocket; metal Launch Umbilical Tower; wood, plaster, and metal base."
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Rocket is 11 feet long (3.353 m) and weighs 30 pounds (13.6078 kg). Base is 5 feet x 6 feet (1.524 x 1.829 m). Launch Umbilical Tower is about 11.5 feet long (3.505 m). With the rocket and LUT on the base, the overall length is 14 feet (4.267 m) and the overall weight is 300 lbs (136.0779 kg)."
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "MODELS-Missiles & Rockets"
+                            }
+                        ]
+                    }
+                },
+                "hash": "ebaa5c90265faaf85ecc27f6cee9349d42e1377a",
+                "docSignature": "5285178a6e3593b4adb0600258ce10f5ad4a26a2_d67b93329313d5b41fdfab57c6db592f",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19761032000",
+                "title": "Command Module, Skylab 4",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19761032000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19761032000",
+                        "online_media": {
+                            "mediaCount": 3,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10156",
+                                    "idsId": "NASM-A19761032000-NASM2018-10156",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf40702029a-f9fd-469d-af87-61f03e48bc53",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10156",
+                                    "text_equiv": "White-tan conical-shaped spacecraft with five windows and hatch",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10156.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5792x5792)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10156.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10156_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10156_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10157",
+                                    "idsId": "NASM-A19761032000-NASM2018-10157",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4ce6639df-8c91-4950-b7e9-6f6f4125dacf",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10157",
+                                    "text_equiv": "Rotated side of conical-shaped spacecraft",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10157.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5792x5792)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10157.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10157_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10157_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10155",
+                                    "idsId": "NASM-A19761032000-NASM2018-10155",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4c5d53a69-0756-40af-91dd-04d9d4b8d1da",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761032000-NASM2018-10155",
+                                    "text_equiv": "Rotated side of conical-shaped spacecraft",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10155.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5792x5792)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10155.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10155_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761032000-NASM2018-10155_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "COMMAND MODULE, SKYLAB 4",
+                        "guid": "http://n2t.net/ark:/65665/nv9dd52692d-d258-4df5-a679-e0553f553f9a",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19761032000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Command Module, Skylab 4"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Manned spacecraft"
+                        ],
+                        "name": [
+                            "Carr, Gerald P.",
+                            "Gibson, Edward G.",
+                            "North American Rockwell",
+                            "Pogue, William Reid"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Capsules",
+                            "Spacecraft",
+                            "Apollo Program",
+                            "Human Spaceflight",
+                            "Missions",
+                            "Space Stations"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19761032000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This is the Skylab 4 Command Module, which served as the crew cabin for going to and from Skylab, the first U.S. space station. Skylab 4, the third and last of the Skylab missions, was launched on November 16, 1973 with Command and Service Modules CSM-118. The three-person crew, Gerald P. Carr, William R. Pogue, and Edward G. Gibson, spent 84 days on orbit, landing on February 8, 1974. The mission included the observation of the comet Kohoutek, among numerous experiments. The crew completed 1,214 Earth orbits and four extra-vehicular activities totaling 22 hours, 13 minutes."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "CSM-118 was transferred from NASA to the Smithsonian in 1975."
+                            },
+                            {
+                                "label": "Alternate Name",
+                                "content": "Skylab 4 Command Module"
+                            },
+                            {
+                                "label": "Key Accomplishment(s)",
+                                "content": "Final Mission to Skylab"
+                            },
+                            {
+                                "label": "Brief Description",
+                                "content": "This Skylab 4 Command Module carried astronauts to and from the first U.S.space station on the final Skylab mission. Launched on November 16, 1973, astronauts Gerald P. Carr, William R. Pogue, and Edward G. Gibson, spent 84 days on orbit aboard Skylab."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from NASA, Johnson Space Center."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Astronaut",
+                                "content": "Edward G. Gibson"
+                            },
+                            {
+                                "label": "Astronaut",
+                                "content": "Gerald P. Carr"
+                            },
+                            {
+                                "label": "Manufacturer",
+                                "content": "North American Rockwell"
+                            },
+                            {
+                                "label": "Astronaut",
+                                "content": "William Reid Pogue"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Aluminum alloy, stainless steel, and titanium structures. Outer shell - stainless steel honeycomb between stainless steel sheets. Crew compartment inner shell - aluminum honeycomb between aluminum alloy sheets. Epoxy-resin ablative heat shield covers outside."
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall: 10ft 7in. x 12ft 10in., 11,000 lbs with new stand for Oklahoma Hist. Museum loan (Weight updated 7/28/2020)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "SPACECRAFT-Manned"
+                            }
+                        ]
+                    }
+                },
+                "hash": "bce5257df9297a4ad13c2abd29fdcc55c860bed6",
+                "docSignature": "101c1c14368a1424387c0a097a5b5badc937459a_b001736e7aeeaa91056bec83ba110ae1",
+                "timestamp": "1611738738",
+                "lastTimeUpdated": "1611738727",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19700102000",
+                "title": "Command Module, Apollo 11",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19700102000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19700102000",
+                        "online_media": {
+                            "mediaCount": 16,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04272",
+                                    "idsId": "NASM-A19700102000-NASM2016-04272",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf45f85d856-7904-4cfa-9da4-b0b58b7d1889",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04272",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04272.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3000x3000)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04272.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04272_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04272_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04274",
+                                    "idsId": "NASM-A19700102000-NASM2016-04274",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf47c368bda-c3cc-4417-947a-c8e112f423bd",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04274",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04274.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3000x3000)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04274.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04274_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04274_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04273",
+                                    "idsId": "NASM-A19700102000-NASM2016-04273",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf401a6bb67-7743-4995-9548-354ff5299284",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19700102000-NASM2016-04273",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04273.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3000x3000)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04273.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04273_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19700102000-NASM2016-04273_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-2005-66",
+                                    "idsId": "NASM-2005-66",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf424904b3e-d278-4b0a-8709-96439a3b7a8c",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-2005-66",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-2005-66.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3600x3600)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-2005-66.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-2005-66_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-2005-66_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2013-02663",
+                                    "idsId": "NASM-NASM2013-02663",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4dcba38a0-5b28-42f6-aa50-d7db8bfe34ed",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2013-02663",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2013-02663.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (12000x12000)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2013-02663.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2013-02663_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2013-02663_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04035",
+                                    "idsId": "NASM-NASM2015-04035",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf45f4b7901-8989-49ed-9722-da8782b19bf9",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04035",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04035.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5433x5433)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04035.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04035_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04035_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04017",
+                                    "idsId": "NASM-NASM2015-04017",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf43ef227c2-b5c2-423f-96f4-3743be0e52d5",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04017",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04017.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7240x7240)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04017.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04017_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04017_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04037",
+                                    "idsId": "NASM-NASM2015-04037",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf41b7a1c09-1d63-44f0-b414-279de2e090b4",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04037",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04037.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7240x7240)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04037.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04037_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04037_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04042",
+                                    "idsId": "NASM-NASM2015-04042",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf442791aa3-f1fd-49d8-9de8-83aaa87e1996",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04042",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04042.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5433x5433)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04042.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04042_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04042_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04043",
+                                    "idsId": "NASM-NASM2015-04043",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4feff34f9-0c9d-4224-b122-213757e4b789",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2015-04043",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04043.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5433x5433)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04043.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04043_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2015-04043_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-2009-5231",
+                                    "idsId": "NASM-SI-2009-5231",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf456263b81-2497-4b44-8e17-0e308e76845f",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-2009-5231",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-5231.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3390x3390)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-5231.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-5231_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-5231_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-98-16043",
+                                    "idsId": "NASM-SI-98-16043",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4c7b39012-7c1a-4098-a77a-3b68b78f4ec7",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-98-16043",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-98-16043.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (2848x2848)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-98-16043.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-98-16043_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-98-16043_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-98-16042",
+                                    "idsId": "NASM-98-16042",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4c53b83c7-e9ce-41fe-90f8-43a263ce4cb3",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-98-16042",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-16042.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3432x3432)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-16042.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-16042_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-16042_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-01617",
+                                    "idsId": "NASM-NASM2016-01617",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4add5263a-fda6-486c-89f4-8004d1b4f9aa",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-01617",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-01617.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (6809x6809)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-01617.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-01617_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-01617_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://3d-api.si.edu/content/document/3d_package:d8c63e8a-4ebc-11ea-b77f-2e728ce88125/scene-image-thumb.jpg",
+                                    "content": "https://3d-api.si.edu/voyager/3d_package:d8c63e8a-4ebc-11ea-b77f-2e728ce88125",
+                                    "type": "3d_voyager",
+                                    "voyagerId": "3d_package:d8c63e8a-4ebc-11ea-b77f-2e728ce88125",
+                                    "usage": {
+                                        "access": "CC0",
+                                        "codes": "",
+                                        "text": ""
+                                    }
+                                },
+                                {
+                                    "thumbnail": "https://3d-api.si.edu/content/document/3d_package:d8c6457e-4ebc-11ea-b77f-2e728ce88125/scene-image-thumb.jpg",
+                                    "content": "https://3d-api.si.edu/voyager/3d_package:d8c6457e-4ebc-11ea-b77f-2e728ce88125",
+                                    "type": "3d_voyager",
+                                    "voyagerId": "3d_package:d8c6457e-4ebc-11ea-b77f-2e728ce88125",
+                                    "usage": {
+                                        "access": "CC0",
+                                        "codes": "",
+                                        "text": ""
+                                    }
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "COMMAND MODULE, APOLLO 11",
+                        "guid": "http://n2t.net/ark:/65665/nv9ce74610f-62de-46b6-904f-58abfecb555c",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19700102000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Command Module, Apollo 11"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "exhibition": [
+                            {
+                                "building": "HAZY"
+                            }
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Manned spacecraft"
+                        ],
+                        "name": [
+                            "Collins, Michael",
+                            "Armstrong, Neil A.",
+                            "Aldrin, Buzz",
+                            "North American Rockwell"
+                        ],
+                        "onPhysicalExhibit": [
+                            "Yes"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Capsules",
+                            "Moon",
+                            "Spacecraft",
+                            "People",
+                            "Apollo Program",
+                            "Exploration",
+                            "Astronauts",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Full text documents",
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            },
+                            {
+                                "label": "Location",
+                                "content": "Steven F. Udvar-Hazy Center in Chantilly, VA"
+                            },
+                            {
+                                "label": "Hangar",
+                                "content": "Boeing Aviation Hangar"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19700102000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "The Apollo 11 Command Module, \"Columbia,\" was the living quarters for the three-person crew during most of the first crewed lunar landing mission in July 1969. On July 16, 1969, Neil Armstrong, Edwin \"Buzz\" Aldrin and Michael Collins were launched from Cape Kennedy atop a Saturn V rocket. This Command Module, no. 107, manufactured by North American Rockwell, was one of three parts of the complete Apollo spacecraft. The other two parts were the Service Module and the Lunar Module, nicknamed \"Eagle.\" The Service Module contained the main spacecraft propulsion system and consumables while the Lunar Module was the two-person craft used by Armstrong and Aldrin to descend to the Moon's surface on July 20. The Command Module is the only portion of the spacecraft to return to Earth."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "It was physically transferred to the Smithsonian in 1971 following a NASA-sponsored tour of American cities. The Apollo CM Columbia has been designated a \"Milestone of Flight\" by the Museum."
+                            },
+                            {
+                                "label": "Alternate Name",
+                                "content": "Apollo 11 Command Module <i>Columbia</i>"
+                            },
+                            {
+                                "label": "Key Accomplishment(s)",
+                                "content": "First Lunar Landing Mission"
+                            },
+                            {
+                                "label": "Brief Description",
+                                "content": "The Apollo 11 Command Module, <i>Columbia</i>, carried astronauts Neil Armstrong, Edwin \"Buzz\" Aldrin and Michael Collins to the Moon and back on the first lunar landing mission in July, 1969."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from the National Aeronautics and Space Administration"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Astronaut",
+                                "content": "Buzz Aldrin"
+                            },
+                            {
+                                "label": "Astronaut",
+                                "content": "Michael Collins"
+                            },
+                            {
+                                "label": "Astronaut",
+                                "content": "Neil A. Armstrong, 1930 - 2012"
+                            },
+                            {
+                                "label": "Manufacturer",
+                                "content": "North American Rockwell"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Command Module, Apollo 11"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Primary Materials: Aluminum alloy, Stainless steel, Titanium"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall: 8 ft. 11 in. \u00d7 12 ft. 10 in., 9130lb. (271.8 \u00d7 391.2cm, 4141.3kg)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Other: 1 ft. 10 in. (55.9cm)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Support (at base width): 12 ft. 10 in. (391.2cm) Overall capsule on stand height: 10'9\""
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Support (Stand): 2035.7kg (4488lb.)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "SPACECRAFT-Manned"
+                            }
+                        ]
+                    }
+                },
+                "hash": "9f2a282ab860efdc443731a2817622b0131f8e0b",
+                "docSignature": "001734b6b7d67cd0660f0f24201075716bf111c0_81567027b4ad3b05c7aba8f8bd4f5567",
+                "timestamp": "1603354292",
+                "lastTimeUpdated": "1603354292",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1114429",
+                "title": "Space exploration a history in 100 objects Sten Odenwald ; foreword by John Mather",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1114429",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1114429",
+                        "unit_code": "SIL",
+                        "title_sort": "SPACE EXPLORATION A HISTORY IN 100 OBJECTS STEN ODENWALD FOREWORD BY JOHN MATHER",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1114429~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Space exploration a history in 100 objects Sten Odenwald ; foreword by John Mather"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Extraterrestrial"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Books"
+                        ],
+                        "name": [
+                            "Odenwald, Sten F"
+                        ],
+                        "topic": [
+                            "Exploration",
+                            "History",
+                            "Astronautics",
+                            "Astronomy",
+                            "Exploration of outer space"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "place": [
+                            "Outer space"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2019"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Contents",
+                                "content": "Foreword by John Mather; Introduction; The Blombos Ochre Drawing; The Abri Blanchard Bone Plaque; The Egyptian Star Clock; The Nebra Sky Disk; The Venus Tablet of Ammisaduqa; The Star Charts of Senenmut; The Merkhet; The Nimrud Lens; The Greek Armillary Sphere; The Diopter; Antikythera Mechanism; Hipparchus's Star Atlas; The Astrolabe; The Dunhuang Star Atlas; Al-Khwa\u0304rizmi\u0304's Algebra Textbook; The Dresden Codex; The Chaco Canyon Sun Dagger; Giovanni de' Dondi's Astrarium; The Big Horn Medicine Wheel; The Ensisheim Stone; De Revolutionibus; Tycho's Mural Quadrant; Galileo's Telescope; The Slide Rule; The Eyepiece Micrometer; The Clock Drive; The Meridian Circle; The Skidi Pawnee Star Chart; Smoked-Glass Sun Viewing; The Gyroscope; The Electric Battery; Pila\u0302tre de Rozier and d'Arlandes's Balloon; William Herschel's Forty-Foot Telescope; The Spectroscope; The Daguerreotype Camera; The Solar Panel; The Leviathan of Parsonstown; Crookes Tube; The Triode Vacuum Tube; The Ion Rocket Engine; The Hooker Telescope; Robert Goddard's Rocket; The Van de Graaff Generator; The Coronagraph; Jansky's Merry-Go-Round Radio Telescope; The V-2 Rocket; ENIAC; Colossus Mark 2; The Radio Interferometer; The Heat Shield; The Integrated Circuit; The Atomic Clock; Space Fasteners; The Hydrogen Line Radio Telescope; The X-Ray Imaging Telescope; The Hydrogen Bomb; The Radioisotope Thermoelectric Generator; The Nuclear Rocket Engine; Sputnik; Vanguard 1; Luna 3; The Endless Loop Magnetic Tape Recorder; The Laser; Space Food; The Space Suit; Syncom 2 (and 3); The Vidicon Camera; The Space Blanket; The Handheld Maneuvering Unit; Apollo 1 Block I Hatch; The Interface Message Processor; The Hasselblad Camera; Apollo 11 Moon Rocks; The CCD Imager; The Lunar Laser Ranging RetroReflector; The Apollo Lunar Television Camera; The Homestake Gold Mine Neutrino Detector; Lunokhod 1; The Skylab Exercise Bike; The Laser Geodynamics Satellite (LAGEOS); Smoot's Differential Microwave Radiometer; The Viking Remote-Controlled Sampling Arm; The\"Rubber Mirror.\"; The Multi-Fiber Spectrograph; The Venera Landers; The Compromised Challenger O-Rings; COSTAR; CMOS Sensors; The Allan Hills Meteorite; Sojourner; Gravity Probe B; LIDAR; The Large Hadron Collider; The Kepler Space Telescope; Curiosity Rover; Mangalyaan-the Mars Orbiter Mission; A 3-D Printed Ratchet Wrench; The LIGO Gravitational-Wave Interferometer; The Tesla Roadster; The Event Horizon Telescope"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "\"From Galileo's telescope to the International Space Station - a stunningly photo-filled tour through the milestones of space exploration, examining iconic objects from Sputnik to Skylab and their effect on what we know and how we think about space.\"-- Provided by publisher"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Odenwald, Sten F"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Astronomy--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronautics--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronautics"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronomy"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Exploration of outer space"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Exploration"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "History"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "Outer space"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "205 pages illustrations (chiefly color) 25 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            }
+                        ]
+                    }
+                },
+                "hash": "2b8270a464b1db647b358c28afca24b945bc1d8f",
+                "docSignature": "ac4797ca455a1925f4bbe3dccfcbe4ad480fc877_22a89a59b0260c4eae05e594b2787fdf",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453428",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19711598000",
+                "title": "Lunar Module #2, Apollo",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19711598000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19711598000",
+                        "online_media": {
+                            "mediaCount": 7,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03147",
+                                    "idsId": "NASM-NASM2016-03147",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf422a35985-9e5e-4133-aef1-1fe9a3635997",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03147",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03147.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7734x7734)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03147.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03147_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03147_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03151",
+                                    "idsId": "NASM-NASM2016-03151",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf421547266-906f-482f-8dac-9cfc771c2b53",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03151",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03151.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (5792x5792)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03151.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03151_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03151_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03152",
+                                    "idsId": "NASM-NASM2016-03152",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf417b6f9d3-831d-4d98-ac74-47604211c20c",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03152",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03152.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (2000x2000)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03152.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03152_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03152_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03148",
+                                    "idsId": "NASM-NASM2016-03148",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4508ece6c-f0b0-498f-af39-a6c7f85a7ef3",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03148",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03148.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7734x7734)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03148.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03148_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03148_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-99-15231-2",
+                                    "idsId": "NASM-SI-99-15231-2",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf46aba884a-c407-4231-854f-082f1e7f8399",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-99-15231-2",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-99-15231-2.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (4056x4056)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-99-15231-2.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-99-15231-2_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-99-15231-2_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2014-01760",
+                                    "idsId": "NASM-NASM2014-01760",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf48421b27e-e7b0-4cb8-ac6f-c1d55adc2eb5",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2014-01760",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2014-01760.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3744x3744)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2014-01760.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2014-01760_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2014-01760_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03145",
+                                    "idsId": "NASM-NASM2016-03145",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf474e75d65-bea6-42b8-9ac5-a454c1dcd287",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2016-03145",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03145.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7872x7872)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03145.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03145_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-NASM2016-03145_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "LUNAR MODULE #2, APOLLO",
+                        "guid": "http://n2t.net/ark:/65665/nv950f30cee-381e-4341-ad61-757e6416e7ac",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19711598000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Lunar Module #2, Apollo"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "exhibition": [
+                            {
+                                "building": "NASM"
+                            }
+                        ],
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Testing equipment",
+                            "Manned spacecraft"
+                        ],
+                        "name": [
+                            "Grumman Aircraft Engineering Corporation"
+                        ],
+                        "onPhysicalExhibit": [
+                            "Yes"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Moon",
+                            "Spacecraft",
+                            "People",
+                            "Apollo Program",
+                            "Exploration",
+                            "Astronauts",
+                            "Engineers",
+                            "Human Spaceflight",
+                            "Missions",
+                            "Records & Firsts"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            },
+                            {
+                                "label": "Location",
+                                "content": "National Air and Space Museum in Washington, DC"
+                            },
+                            {
+                                "label": "Exhibition",
+                                "content": "Boeing Milestones of Flight Hall"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19711598000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "The Apollo Lunar Module (LM) was a two-stage vehicle designed by Grumman to ferry two astronauts from lunar orbit to the lunar surface and back. The upper ascent stage consisted of a pressurized crew compartment, equipment areas, and an ascent rocket engine. The lower descent stage had the landing gear and contained the descent rocket engine and lunar surface experiments."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "LM 2 was built for a second unmanned Earth-orbit test flight. Because the test flight of LM 1, performed as part of the Apollo 5 mission, was so successful, a second unmanned LM test mission was deemed unnecessary. LM-2 was used for ground testing prior to the first successful Moon-landing mission. In 1970 the ascent stage of LM-2 spent several months on display at the \"Expo '70\" in Osaka, Japan. When it returned to the United States, it was reunited with its descent stage, modified to appear like the Apollo 11 Lunar Module \"Eagle,\" and transferred to the Smithsonian for display."
+                            },
+                            {
+                                "label": "Alternate Name",
+                                "content": "Lunar Module LM-2"
+                            },
+                            {
+                                "label": "Key Accomplishment(s)",
+                                "content": "Landed Astronauts on the Moon"
+                            },
+                            {
+                                "label": "Impact or Innovation",
+                                "content": "This lunar module represents one of humanity\u2019s greatest achievements: landing people on another heavenly body."
+                            },
+                            {
+                                "label": "Brief Description",
+                                "content": "Between 1969 and 1972, six lunar modules identical to this one landed a total of 12 American astronauts on the Moon. This lunar module, LM-2, never flew in space. It is configured as LM-5, Apollo 11\u2019s lunar module Eagle."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from the National Aeronautics and Space Administration"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Manufacturer",
+                                "content": "Grumman Aircraft Engineering Corporation"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Aluminum, titanium, aluminized Mylar and aluminized Kapton blankets"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall: 21 ft. 5 1/2 in. \u00d7 21 ft. 5 1/2 in., 8499.9lb. (654 \u00d7 654cm, 3855.5kg)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "SPACECRAFT-Manned-Test Vehicles"
+                            }
+                        ]
+                    }
+                },
+                "hash": "6648f806d150750d0ba67b5f166cb337b83ce265",
+                "docSignature": "91b44dfed9bb0aa5d3126b4053c2c50e62f15eff_40515c72bb13727bef40e16b9f39e8ec",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19370060000",
+                "title": "Cabin, \"EXPLORER II\"",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19370060000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19370060000",
+                        "online_media": {
+                            "mediaCount": 4,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19370060000-NASM2018-10358-000001",
+                                    "idsId": "NASM-A19370060000-NASM2018-10358-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4c934b278-4801-4fa6-aa4b-8ac2f0679ae9",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19370060000-NASM2018-10358-000001",
+                                    "text_equiv": "Ball-shaped metal balloon cabin with many canvas ballast bags hanging around center"
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2011-00674",
+                                    "idsId": "NASM-NASM2011-00674",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4dc8eac94-451a-4edb-8cfc-6578b6a5f76c",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2011-00674"
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2011-00702",
+                                    "idsId": "NASM-NASM2011-00702",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4ad02214b-e93f-4b07-826c-269ed04d064d",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-NASM2011-00702"
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19370060000-NASM2018-10357-000001",
+                                    "idsId": "NASM-A19370060000-NASM2018-10357-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf40a3f0d24-6fe2-434e-ba05-f81c1620df6d",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19370060000-NASM2018-10357-000001",
+                                    "text_equiv": "Ball-shaped metal balloon cabin with many canvas ballast bags hanging around center"
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "CABIN, \"EXPLORER II\"",
+                        "guid": "http://n2t.net/ark:/65665/nv962f5bc1e-7582-4a73-9bf1-6c2ffbb87ecf",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19370060000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Cabin, \"EXPLORER II\""
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "CRAFT-Balloon"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Balloons & Airships",
+                            "Aviation",
+                            "Exploration",
+                            "Private",
+                            "Aircraft"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19370060000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Physical Description",
+                                "content": "Ball shape; black & white paint; canvas ballast bags; \"National Geographic Society & U.S. Army Air Corps\" on side."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Launched on November 11, 1935, from the Stratobowl near Rapid City, South Dakota, Explorer II carried Captain Albert Stevens, Captain Orvil Anderson, and an assortment of instruments to a world record altitude of 22,066 meters (72,395 feet)."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Explorer was the brainchild of Captain Stevens, Chief of the Army Air Corps\u2019 photography laboratory at Wright Field, Ohio. With funding from the National Geographic Society, he and two crew members attempted a world altitude-record flight in 1934 with Explorer I. The flight ended in disaster when the balloon ripped shortly after launch, and its hydrogen mixed with air and exploded. After a harrowing few moments while Stevens had trouble escaping through the manhole, he and his two fellow aeronauts parachuted to safety."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "For the next attempt, in Explorer II, the portholes were widened for easier escape, and the balloon was filled with helium. To ensure that it attained a record altitude, the balloon was enlarged, the crew was cut from three to two, and its scientific payload was halved."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Like Explorer I, Explorer II was constructed of welded magnesium/aluminum alloy sections. The 2.8 meter (9 foot) sphere weighed 290 kilograms (640 pounds) and carried a payload of 700 kilograms (1,500 pounds). The balloon lifted off at 7:01 am, reached its maximum height of 22 kilometers at 10:50 am and remained there until 12:20 pm. Then it began its descent and touched down at 3:14 pm near White Lake, South Dakota."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "One of the flight\u2019s most dramatic successes was the aerial photography: the first photographs showing the division between the troposphere and the stratosphere and the actual curvature of the earth from the record altitude. Captain Stevens\u2019 cameras captured stunning photographs of South Dakota and surrounding states, and demonstrated the potential of high-altitude, long-range reconnaissance from manned balloons."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Although the scientific experiments were reduced from the original plans, Explorer II carried instruments that collected data for studies in cosmic ray research, the ozone layer, aeronomy, meteorology, biology, and radio propagation in the high atmosphere."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "The National Geographic Magazine devoted several articles to the flight, widely disseminating the photographic, scientific, and engineering accomplishments to the general public. The flight was a public relations success for the Army and the National Geographic Society, and was also a successful venture between government, military, and civilian scientific interests."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Launched on November 11, 1935, from the Stratobowl near Rapid City, South Dakota, Explorer II carried Captain Albert Stevens, Captain Orvil Anderson, and an assortment of instruments to a world record altitude of 22,066 meters (72,395 feet)."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Explorer was the brainchild of Captain Stevens, Chief of the Army Air Corps\u2019 photography laboratory at Wright Field, Ohio. With funding from the National Geographic Society, he and two crew members, Anderson and Major William Kepner, attempted a world altitude-record flight in 1934 with Explorer I. The flight ended in disaster when the balloon ripped and its hydrogen mixed with air and exploded. After a harrowing few moments while Stevens had trouble escaping through the small hatch, he and his two fellow aeronauts parachuted to safety."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "For the next attempt, in Explorer II, the portholes were widened for easier escape, and the balloon was filled with helium. To ensure that it attained a record altitude, the balloon was enlarged, the crew was cut from three to two, and its scientific payload was halved."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Like Explorer I, Explorer II was constructed of welded magnesium/aluminum alloy sections. The 2.8 meter (9 foot) sphere weighed 290 kilograms (640 pounds) and carried a payload of 700 kilograms (1,500 pounds). The balloon lifted off at 7:01 am, reached its maximum height of 22 kilometers at 10:50 am and remained there until 12:20 pm. Then it began its descent and touched down at 3:14 pm near White Lake, South Dakota."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "One of the flight\u2019s most dramatic successes was the aerial photography: the first photographs showing the division between the troposphere and the stratosphere and the actual curvature of the earth from the record altitude. Captain Stevens\u2019 cameras captured stunning photographs of South Dakota and surrounding states, and demonstrated the potential of high-altitude, long-range reconnaissance from manned balloons."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Although the scientific experiments were reduced from the original plans, Explorer II carried instruments that collected data for studies in cosmic ray research, the ozone layer, aeronomy, meteorology, biology, and radio propagation in the high atmosphere."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The National Geographic Magazine devoted several articles to the flight, widely disseminating the photographic, scientific, and engineering accomplishments to the general public. The flight was a public relations success for the Army and the National Geographic Society, and was also a successful venture between government, military, and civilian scientific interests."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "National Geographic Society"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Ballast bags-canvas"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "3-D: 274.3 \u00d7 411.5cm, 303.9kg (9 ft. \u00d7 13 ft. 6 in., 670lb.)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "CRAFT-Balloon"
+                            }
+                        ]
+                    }
+                },
+                "hash": "0af111fdb06988a2ad9ace08a1057c5d5abccddc",
+                "docSignature": "a48a8d7ba275d0c3b88220da933ee90a6da5366b_a42c8e902ea9ddb55dd3a3c68fb3920e",
+                "timestamp": "1608109925",
+                "lastTimeUpdated": "1608109909",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19761017000",
+                "title": "Lockheed F-104A Starfighter",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19761017000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19761017000",
+                        "online_media": {
+                            "mediaCount": 8,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2017-10001",
+                                    "idsId": "NASM-A19761017000-NASM2017-10001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf46b1a3985-2e3d-4b4c-8724-2809840a26e8",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2017-10001",
+                                    "text_equiv": "Overall, side view of Lockheed F-104A Starfighter jet hanging in museum",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2017-10001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8688x8688)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2017-10001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2017-10001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2017-10001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10441-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10441-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf426b58be7-5850-4e51-8e2a-843a3fdd7bbd",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10441-000001",
+                                    "text_equiv": "Light blue underbody of Lockheed F-104A Starfighter Tailhook",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10441-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10441-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10441-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10441-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10442-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10442-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf46689a0fc-9c09-430b-9e25-10c43bfee133",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10442-000001",
+                                    "text_equiv": "Closeup view of stubby wing on Lockheed F-104 Starfighter",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10442-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10442-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10442-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10442-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10443-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10443-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf49d5a1671-cc16-4c53-9297-6f43547ceeb8",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10443-000001",
+                                    "text_equiv": "View of engine with NASA logo on side of Lockheed F-104A Starfighter aircraft",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10443-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (6200x6200)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10443-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10443-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10443-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10444-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10444-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4666a422d-6958-45be-834b-7029db1e9fc7",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10444-000001",
+                                    "text_equiv": "Pointed tip of Lockheed F-104A Starfighter Pitot Tube",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10444-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10444-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10444-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10444-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10445-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10445-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf440aea5fa-8ca5-4af8-8d31-bdcf3329c6c4",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10445-000001",
+                                    "text_equiv": "Exterior side view of Lockheed F-104A Starfighter cockpit and labels on body of aircraft",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10445-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10445-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10445-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10445-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10446-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10446-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf434e3162c-c74c-4b21-8879-8b9819ff2924",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10446-000001",
+                                    "text_equiv": "Tail of Lockheed F-104A Starfighter aircraft with \"NASA\" on yellow stripe in black lettering and\n                \"818\"",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10446-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10446-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10446-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10446-000001_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10447-000001",
+                                    "idsId": "NASM-A19761017000-NASM2018-10447-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf446c727a4-9456-4dc4-ac9c-2ec11b719cf0",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19761017000-NASM2018-10447-000001",
+                                    "text_equiv": "Closeup view of Lockheed F-104A Starfighter aircraft rear exhaust port with tail",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10447-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (6200x6200)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10447-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10447-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19761017000-NASM2018-10447-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "LOCKHEED F-104A STARFIGHTER",
+                        "guid": "http://n2t.net/ark:/65665/nv9eae9b2a9-8f24-44d1-acc4-c5d33a374d03",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19761017000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Lockheed F-104A Starfighter"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Aircraft"
+                        ],
+                        "name": [
+                            "Lockheed Aircraft Company"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Aviation",
+                            "Aircraft"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19761017000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "Known as \"the missile with a man in it,\" the stubby-winged Lockheed F-104 Starfighter was the first U.S. jet fighter in service to fly Mach 2, twice the speed of sound. Designed as a high-performance day fighter, the F-104 had excellent acceleration and top speed. It first flew on February 7, 1954."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "While built for the U.S. Air Force, most Starfighters were flown by other countries, particularly Canada, Italy, Germany, and Japan. Many were built under license overseas."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "The National Aeronautics and Space Administration (NASA) flew this F-104A for 19 years as a flying test bed and a chase plane. It was used to test the reaction controls later used on the North American X-15. This aircraft was the seventh F-104 built and was transferred to the Museum after its last flight, to Andrews Air Force Base, on August 26, 1975."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The Lockheed F-104 Starfighter was nicknamed \"the missile with a man in it,\" since its long, thin fuselage and stubby wings resembled a missile more than a conventional aircraft. The F-104 was the first interceptor in our nation\u2019s service to be able to fly at sustained speeds above Mach 2 (twice the speed of sound)."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The Starfighter\u2019s design was radical for its time, as it was a small, straight-wing aircraft while most contemporary designs were much larger and featured swept-back wings. The wingspan is only 21 feet, 11 inches, and the wings themselves have a 100 negative dihedral. The razor-sharp leading edge requires a specialty fitted cover when on the ground to protect the ground crew. A narrow fuselage fits tightly around the power plant, and its forward portion curves down slightly to allow maximum pilot visibility."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The F-104 featured the General Electric 14,800-pound-thrust J79 turbojet engine and afterburner, which occupied more than half the length of the fuselage. The fuel tanks and cockpit took up much of the remainder, so that insufficient space remained for the necessary electronics systems. A series of self-contained electronics packages were"
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "developed which could be \u2018plugged in\" to suit the individual mission. Basic armament consisted of an M-61 Vulcan 20-mm gun in the fuselage and a Sidewinder GAR-8 missile on each wingtip. The M61 was a Gatling type with multiple rotating barrels and an extremely high rate of fire."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Design of the F-104 began in November 1952. The U.S. Air Force had a requirement for a superior day fighter, and Lockheed began work on its Model 83. Two prototypes, powered by the Wright J65 engine, were ordered by the Air Force in March 1953. On February 7,1954, Lockheed test pilot Tony Le Vier made the first flight in the XC-104. Fifteen YF-104A aircraft, powered by the GE J79 engine, were ordered for testing."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The first F-104A deliveries took place on January 26, 1958. They were delivered to the 83d Fighter-Interceptor Squadron at Hamilton Air Force Base. California. Soon afterward, pilots from this squadron set new world speed and altitude records. Maj. Howard C. Johnson established a world airplane altitude record of 91,249 feet on May 7. 1958. On May 16, 1958, Capt. Walter W. Irvin established a world speed record of 1,404.19 mph. The F-104 also established seven climb-to-height records. Four of these replaced old records: the 15000 meter, 20.000 meter. and 25.000 meter climbs set completely new records."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The major variants were the F-104B, a two-seat version of the F-104A, used as an operational trainer: the F-104C, modified for use by the Tactical Air Command with provision for inflight refueling: and the F-104D, a two-seat version of the F-104C."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The majority of Starfighters were used in foreign service. Most of the F-l04Gs, F-l04Js, and CF104s were built under license in NATO and SEATO countries. The basic Starfighter was modified to be a multimission fighter with considerably strengthened structure and different operational equipment."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "On October 12. 1959. the Starfighter protect was awarded the Collier Trophy."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Starfighters served in the Air Force until the early 1960s. A few saw service in Vietnam. and they were also used in Air National Guard units until 1975. Their European counterparts stayed in service even longer."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The museum\u2019s specimen is a Lockheed F-104A, military serial number 55-2961, the seventh F-104A produced (formerly a YF-104A). It was procured by the NASA Flight Research Center (then NACA High Speed Flight Station) at Edwards Air Force Base. California. on August 23. 1956. It was first flown by NASA on August 27. 1956, and logged 1.439 flights over a period of nineteen years."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "The airplane. NASA number 818. was used in a number of research programs at Edwards It was used in the evaluation program of the Starfighter at first and was later used to help confirm wind tunnel data in actual flight, as a flying testbed, and as a chase plane. It was a part of the research program that led to the X-15 airplane program; a particularly important phase was the testing of reaction type controls."
+                            },
+                            {
+                                "label": "Long Description",
+                                "content": "Nineteen pilots flew the 818. Among them were three Apollo astronauts. including Neil Armstrong seven X-15 pilots, including Joe Walker: and six lifting body pilots. It made its last operational flight on August 26. 1975. and was flown to Andrews Air Force Base. near Washington D.C.. for transfer to the National Air and Space Museum later that year."
+                            },
+                            {
+                                "label": "Key Accomplishment(s)",
+                                "content": "First Aircraft Capable of Sustained Mach 2 Flight"
+                            },
+                            {
+                                "label": "Brief Description",
+                                "content": "Known as \"the missile with a man in it,\" the stubby-winged Lockheed F-104 Starfighter was the first U.S. jet fighter in service to fly Mach 2, twice the speed of sound."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from the National Aeronautics and Space Administration"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Manufacturer",
+                                "content": "Lockheed Aircraft Company"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Dimensions",
+                                "content": "Wingspan: 6.7 m (21 ft 11 in)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Length: 16.6 m (54 ft 9 in)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Height: 4.1 m (13 ft 6 in)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Weight, gross: 11,271 kg (25,840 lb)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Weight, empty: 6,071 kg (13,384 lb)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Top speed: 1,669 km/h (1,037 mph)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "CRAFT-Aircraft"
+                            }
+                        ]
+                    }
+                },
+                "hash": "6e9e1861ce2896ce50978796fe23a77f733a5fd3",
+                "docSignature": "92e27e90de3a662031a599e452f63781021c2626_90b2b95403a05b330b9a53e0b07e6916",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            }
+        ],
+        "rowCount": 8,
+        "message": "content found"
+    }
+}

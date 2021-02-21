@@ -12,7 +12,7 @@ This section details the current features of this POC and the roadmap for new fe
 
 ## Using the API
 
-The Smithsonian has a web based search interface located at https://www.si.edu/collections.  As a test I will search for Apollo 11.
+git The Smithsonian has a web based search interface located at https://www.si.edu/collections.  As a test I will search for Apollo 11.
 
 ![](G:\dev-open-access-smithsonian\smithsonian\smith-api-poc\smithsonian-search-apollo-11.png)
 

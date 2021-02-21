@@ -14,15 +14,15 @@ This section details the current features of this POC and the roadmap for new fe
 
 git The Smithsonian has a web based search interface located at https://www.si.edu/collections.  As a test I will search for Apollo 11.
 
-![](G:\dev-open-access-smithsonian\smithsonian\smith-api-poc\smithsonian-search-apollo-11.png)
+![](./smithsonian-search-apollo-11.png)
 
 Which yields many images, but I am interested in the Apollo 11 Mission patch.
 
-![](G:\dev-open-access-smithsonian\smithsonian\smith-api-poc\smithsonian-search-apollo-11-mission-patch-results.png)
+![](./smithsonian-search-apollo-11-mission-patch-results.png)
 
 When you click on the Mission Patch your taken to a content page : https://www.si.edu/object/patch-mission-apollo-11:nasm_A19820401000?edan_local=&edan_q=apollo%2B11&destination=/search/collection-images&searchResults=1&id=nasm_A19820401000
 
-![](G:\dev-open-access-smithsonian\smithsonian\smith-api-poc\smithsonian-search-apollo-11-mission-patch-content.png)
+![](./smithsonian-search-apollo-11-mission-patch-content.png)
 
 The right hand side displays information about the Mission Patch Item:
 
@@ -85,7 +85,7 @@ Searching for the record if of "nasm_A19820401000" also returns nothing.
 
 Next I'll try searching "Hatch, Crew, Apollo 11".
 
-![](G:\dev-open-access-smithsonian\smithsonian\smith-api-poc\smithsonian-search-apollo-11-hatch-item.png)
+![](./smithsonian-search-apollo-11-hatch-item.png)
 
 
 

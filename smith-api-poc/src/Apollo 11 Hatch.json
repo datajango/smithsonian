@@ -1,0 +1,152 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-siris_sil_1114429",
+                "title": "Space exploration a history in 100 objects Sten Odenwald ; foreword by John Mather",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1114429",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1114429",
+                        "unit_code": "SIL",
+                        "title_sort": "SPACE EXPLORATION A HISTORY IN 100 OBJECTS STEN ODENWALD FOREWORD BY JOHN MATHER",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1114429~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Space exploration a history in 100 objects Sten Odenwald ; foreword by John Mather"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "geoLocation": [
+                            {
+                                "L1": {
+                                    "type": "Continent",
+                                    "content": "Extraterrestrial"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Books"
+                        ],
+                        "name": [
+                            "Odenwald, Sten F"
+                        ],
+                        "topic": [
+                            "Exploration",
+                            "History",
+                            "Astronautics",
+                            "Astronomy",
+                            "Exploration of outer space"
+                        ],
+                        "language": [
+                            "English language"
+                        ],
+                        "place": [
+                            "Outer space"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2019"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Contents",
+                                "content": "Foreword by John Mather; Introduction; The Blombos Ochre Drawing; The Abri Blanchard Bone Plaque; The Egyptian Star Clock; The Nebra Sky Disk; The Venus Tablet of Ammisaduqa; The Star Charts of Senenmut; The Merkhet; The Nimrud Lens; The Greek Armillary Sphere; The Diopter; Antikythera Mechanism; Hipparchus's Star Atlas; The Astrolabe; The Dunhuang Star Atlas; Al-Khwa\u0304rizmi\u0304's Algebra Textbook; The Dresden Codex; The Chaco Canyon Sun Dagger; Giovanni de' Dondi's Astrarium; The Big Horn Medicine Wheel; The Ensisheim Stone; De Revolutionibus; Tycho's Mural Quadrant; Galileo's Telescope; The Slide Rule; The Eyepiece Micrometer; The Clock Drive; The Meridian Circle; The Skidi Pawnee Star Chart; Smoked-Glass Sun Viewing; The Gyroscope; The Electric Battery; Pila\u0302tre de Rozier and d'Arlandes's Balloon; William Herschel's Forty-Foot Telescope; The Spectroscope; The Daguerreotype Camera; The Solar Panel; The Leviathan of Parsonstown; Crookes Tube; The Triode Vacuum Tube; The Ion Rocket Engine; The Hooker Telescope; Robert Goddard's Rocket; The Van de Graaff Generator; The Coronagraph; Jansky's Merry-Go-Round Radio Telescope; The V-2 Rocket; ENIAC; Colossus Mark 2; The Radio Interferometer; The Heat Shield; The Integrated Circuit; The Atomic Clock; Space Fasteners; The Hydrogen Line Radio Telescope; The X-Ray Imaging Telescope; The Hydrogen Bomb; The Radioisotope Thermoelectric Generator; The Nuclear Rocket Engine; Sputnik; Vanguard 1; Luna 3; The Endless Loop Magnetic Tape Recorder; The Laser; Space Food; The Space Suit; Syncom 2 (and 3); The Vidicon Camera; The Space Blanket; The Handheld Maneuvering Unit; Apollo 1 Block I Hatch; The Interface Message Processor; The Hasselblad Camera; Apollo 11 Moon Rocks; The CCD Imager; The Lunar Laser Ranging RetroReflector; The Apollo Lunar Television Camera; The Homestake Gold Mine Neutrino Detector; Lunokhod 1; The Skylab Exercise Bike; The Laser Geodynamics Satellite (LAGEOS); Smoot's Differential Microwave Radiometer; The Viking Remote-Controlled Sampling Arm; The\"Rubber Mirror.\"; The Multi-Fiber Spectrograph; The Venera Landers; The Compromised Challenger O-Rings; COSTAR; CMOS Sensors; The Allan Hills Meteorite; Sojourner; Gravity Probe B; LIDAR; The Large Hadron Collider; The Kepler Space Telescope; Curiosity Rover; Mangalyaan-the Mars Orbiter Mission; A 3-D Printed Ratchet Wrench; The LIGO Gravitational-Wave Interferometer; The Tesla Roadster; The Event Horizon Telescope"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "\"From Galileo's telescope to the International Space Station - a stunningly photo-filled tour through the milestones of space exploration, examining iconic objects from Sputnik to Skylab and their effect on what we know and how we think about space.\"-- Provided by publisher"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Odenwald, Sten F"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Astronomy--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronautics--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronautics"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronomy"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Exploration of outer space"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Exploration"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "History"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Place",
+                                "content": "Outer space"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "205 pages illustrations (chiefly color) 25 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Books"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            }
+                        ]
+                    }
+                },
+                "hash": "2b8270a464b1db647b358c28afca24b945bc1d8f",
+                "docSignature": "ac4797ca455a1925f4bbe3dccfcbe4ad480fc877_22a89a59b0260c4eae05e594b2787fdf",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453428",
+                "version": ""
+            }
+        ],
+        "rowCount": 1,
+        "message": "content found"
+    }
+}

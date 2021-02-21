@@ -8,10 +8,10 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 
 def search(text):
-    url = "https://api.si.edu/openaccess/api/v1.0/search?q={}&api_key={}".format(text, API_KEY)
+    url = "https://api.si.edu/openaccess/api/v1.0/search?q={}&api_key={}&rows=1000".format(
+        text, API_KEY)
     print(url)
     response = requests.get(url)
     print(response.status_code)
     save_json.save(text, response.json())
-
-search('entomology')
+    return response.json()

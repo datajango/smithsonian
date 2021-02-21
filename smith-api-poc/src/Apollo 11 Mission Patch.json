@@ -1,0 +1,1963 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-siris_arc_396134",
+                "title": "Apollo 11 Astronauts at Press Conference for 5th Anniversary of Mission",
+                "unitCode": "SIA",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_arc_396134",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_arc_396134",
+                        "unit_code": "SIA",
+                        "title_sort": "APOLLO 11 ASTRONAUTS AT PRESS CONFERENCE FOR 5TH ANNIVERSARY OF MISSION",
+                        "record_link": "https://siarchives.si.edu/collections/siris_arc_396134",
+                        "title": {
+                            "label": "Title",
+                            "content": "Apollo 11 Astronauts at Press Conference for 5th Anniversary of Mission"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Institution Archives"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "Archival materials",
+                            "Photographs"
+                        ],
+                        "name": [
+                            {
+                                "type": "personal_main",
+                                "content": "Farrar, Richard"
+                            },
+                            {
+                                "type": "personal_subj",
+                                "content": "Aldrin, Buzz"
+                            },
+                            {
+                                "type": "personal_subj",
+                                "content": "Armstrong, Neil"
+                            },
+                            {
+                                "type": "personal_subj",
+                                "content": "Collins, Michael"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Apollo 11 (Spacecraft)"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "National Air and Space Museum"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "National Museum of History and Technology"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Smithsonian Institution"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "Apollo Project (U.S.)"
+                            }
+                        ],
+                        "topic": [
+                            "Astronautics"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1974"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "July 20, 1974"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Local number",
+                                "content": "SIA RU000371 [74-7135-31]"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Original film available in SIA Acc. 11-009."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Featured in the \"Torch,\" September 1974."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Apollo 11 astronauts Neil Armstrong, Michael Collins, and Edwin \"Buzz\" Aldrin at a press conference in the Carmichael Auditorium of the National Museum of History and Technology, now known as the National Museum of American History, marking the fifth anniversary observance of the Apollo 11 mission."
+                            },
+                            {
+                                "label": "Cite as",
+                                "content": "Smithsonian Institution Archives, Record Unit 371, Box 02, Folder: September 1974, Image No. 74-7135-31"
+                            },
+                            {
+                                "label": "Repository Loc.",
+                                "content": "Smithsonian Institution Archives Capital Gallery, Suite 3000, MRC 507; 600 Maryland Avenue, SW; Washington, DC 20024-2520"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Creator",
+                                "content": "Farrar, Richard"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Aldrin, Buzz"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Armstrong, Neil 1930-2012"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Collins, Michael 1930-"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Apollo 11 (Spacecraft)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "National Air and Space Museum"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "National Museum of History and Technology"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Smithsonian Institution Office of Public Affairs"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Apollo Project (U.S.)"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Astronauts"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "Gelatin silver prints; 8 x 10;"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Institution Archives"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "No access restrictions Many of SIA's holdings are located off-site, and advance notice is recommended to consult a collection. Please email the SIA Reference Team at osiaref@si.edu"
+                            },
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "No Copyright - United States"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Black-and-white photographs"
+                            }
+                        ]
+                    }
+                },
+                "hash": "3860a7997716b8467f099b08d269f9cfc09fcb9e",
+                "docSignature": "f93267a6a0534dad2dc1d1a263407a17f82a5e2c_b25b5877524cd8de888a0477837473b5",
+                "timestamp": "1597997489",
+                "lastTimeUpdated": "1597997472",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1103958",
+                "title": "Picturing Apollo 11 : rare views and undiscovered moments / J.L. Pickering and John Bisney",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1103958",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1103958",
+                        "unit_code": "SIL",
+                        "title_sort": "PICTURING APOLLO 11 : RARE VIEWS AND UNDISCOVERED MOMENTS JL PICKERING AND JOHN BISNEY",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1103958~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Picturing Apollo 11 : rare views and undiscovered moments / J.L. Pickering and John Bisney"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "object_type": [
+                            "Scientific illustrations",
+                            "Pictorial works"
+                        ],
+                        "name": [
+                            "Apollo 11 (Spacecraft)",
+                            "Bisney, John",
+                            "Pickering, J. L",
+                            "Project Apollo (U.S.)"
+                        ],
+                        "topic": [
+                            "Space flight",
+                            "History"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2019"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "NASMMAIN copy purchased with funds from the S. Dillon Ripley Endowment."
+                            },
+                            {
+                                "label": "Contents",
+                                "content": "Three to get ready -- Delivering the team and the machine -- Assembly and checkout -- Rolling toward launch -- Training makers perfect -- Final preparations -- Fire and thunder -- Men to the moon -- Safe return -- Celebrating the memories"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "\"Picturing Apollo 11 is an unprecedented photographic history of the space mission that defined an era. Through a wealth of unpublicized and recently discovered images, this book presents new and rarely-seen views of the people, places, and events involved in the pioneering first moon landing of July 20, 1969.\"--Amazon.com"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Pickering, J. L. 1957-"
+                            },
+                            {
+                                "label": "author",
+                                "content": "Bisney, John 1954-"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Apollo 11 (Spacecraft)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Project Apollo (U.S.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Project Apollo (U.S.) History"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Space flight to the moon"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Picturing Apollo eleven : rare views and undiscovered moments"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "viii, 264 pages : illustrations (some color) ; 29 cm"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Pictorial works"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Illustrated works"
+                            }
+                        ]
+                    }
+                },
+                "hash": "f675d8cff3608a2e404e2173f517f02b5a0381bf",
+                "docSignature": "5501bceccce28821f0fb1b63fb4f4aa72f3fafd9_c8f4218f30e9d965ac15bc9fa1369e11",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453426",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19791774000",
+                "title": "Headset, Communications Carrier, Armstrong, Apollo 11",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19791774000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19791774000",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19791774000-NASM2014-05415-000001",
+                                    "idsId": "NASM-A19791774000-NASM2014-05415-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf449990029-ad19-41b7-b931-b2c59f3ecf99",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19791774000-NASM2014-05415-000001",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (2143x2143)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "HEADSET, COMMUNICATIONS CARRIER, ARMSTRONG, APOLLO 11",
+                        "guid": "http://n2t.net/ark:/65665/nv92f6204ff-8027-45ad-a5e3-03b28e825f86",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19791774000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Headset, Communications Carrier, Armstrong, Apollo 11"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Communication systems (mechanical and electrical systems)",
+                            "Equipment for personal use"
+                        ],
+                        "name": [
+                            "Armstrong, Neil A.",
+                            "Pacific Plantronics, Inc."
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Flight Gear",
+                            "Equipment",
+                            "Moon",
+                            "People",
+                            "Apollo Program",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19791774000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This communications carrier was used by astronaut Neil Armstrong during the Apollo 11 mission in July 1969. Communications carriers were worn during launch and the mission, and were affectionately known as the \"Snoopy Cap\" from its resemblance to a famous cartoon character of the era."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "It was constructed of an elastic center portion with Teflon fabric sides containing the communications equipment and mouthpiece. It fastened beneath the chin and was worn during the launch sequence, while in the lunar module, and on the lunar surface."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "NASA transferred this object to the Musuem in 1979."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from the National Aeronautics and Space Administration"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Astronaut",
+                                "content": "Neil A. Armstrong, 1930 - 2012"
+                            },
+                            {
+                                "label": "Manufacturer",
+                                "content": "Pacific Plantronics, Inc."
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Headset, Communications Carrier, Armstrong, Apollo 11"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Cap: Nylon/Polyester knit, Teflon fabric"
+                            },
+                            {
+                                "label": "Materials",
+                                "content": "Earphones: Plastic, leather, communications cables"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall (Approximately): 9in. x 10 1/2in. x 9in. (22.86 x 26.67 x 22.86cm)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "PERSONAL EQUIPMENT-Communications Gear"
+                            }
+                        ]
+                    }
+                },
+                "hash": "c98dfb5fe59e3430ac7942820af8c01d88102515",
+                "docSignature": "2958c4f099a90e5c1ec2af3bd5c5b655732c6d22_d6933ac9e4b3593b15f8becac6618a1d",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_sil_1106144",
+                "title": "Mission moon 3-D / David J. Eicher and Brian May ; foreword by Charlie Duke ; afterword by Jim Lovell",
+                "unitCode": "SIL",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_sil_1106144",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_sil_1106144",
+                        "unit_code": "SIL",
+                        "title_sort": "MISSION MOON 3D DAVID J EICHER AND BRIAN MAY FOREWORD BY CHARLIE DUKE AFTERWORD BY JIM LOVELL",
+                        "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1106144~!0#focus",
+                        "title": {
+                            "label": "Title",
+                            "content": "Mission moon 3-D / David J. Eicher and Brian May ; foreword by Charlie Duke ; afterword by Jim Lovell"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Libraries"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "2010s"
+                        ],
+                        "object_type": [
+                            "Scientific illustrations",
+                            "Pictorial works"
+                        ],
+                        "name": [
+                            "Eicher, David J",
+                            "May, Brian",
+                            "Project Apollo (U.S.)",
+                            "Duke, Charlie",
+                            "Lovell, Jim"
+                        ],
+                        "topic": [
+                            "Space race",
+                            "Photography, Stereoscopic",
+                            "History"
+                        ],
+                        "language": [
+                            "English language"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "2018"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "\"A 3-D viewer is included\"--Back cover"
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "NASM copy Purchased with Adopt-a-Book funds."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "The story of the lunar landing and the events that led up to it, told in text and visually stunning 3-D images. July 2019 marks the fiftieth anniversary of Apollo 11's epochal lunar landing, when Neil Armstrong and Buzz Aldrin walked on the surface of the moon. This visually rich book offers a new perspective on that historic accomplishment, telling the story of the lunar landing and the events that led up to it with text and 3-D images. A 3D viewer, designed by astrophysicist (and lead guitarist with the rock group Queen) Brian May is included with the book. Mission Moon 3-D offers unique access to the Apollo astronauts and what they saw. It tells the story of the US-Soviet space race, from Sputnik and the space dog Laika to Mercury, Gemini, and Apollo. In 1961, President John F. Kennedy declared that America would put a man on the moon by the end of the decade. On July 20, 1969, Neil Armstrong guided the Eagle to a safe landing on the edge of the moon's Sea of Tranquility. President Richard Nixon told the astronauts, and the nation, that it was \"the greatest week in the history of the world since the Creation.\" Mission Moon 3-D recounts all this and more in memorable and visually stunning fashion"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "author",
+                                "content": "Eicher, David J. 1961-"
+                            },
+                            {
+                                "label": "author",
+                                "content": "May, Brian 1947-"
+                            },
+                            {
+                                "label": "writer of foreword",
+                                "content": "Duke, Charlie 1935-"
+                            },
+                            {
+                                "label": "writer of afterword",
+                                "content": "Lovell, Jim"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Project Apollo (U.S.) History"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Project Apollo (U.S.) History"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Space race--History"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Photography, Stereoscopic"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Mission moon 3-D : a new perspective on the space race"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "191 pages : illustrations (some color) ; 32 cm + 1 stereoscopic viewer (6 x 14 cm)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Libraries"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Pictorial works"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "History"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Illustrated works"
+                            }
+                        ]
+                    }
+                },
+                "hash": "414a80908b7913dcb663d9c84a3fc6a34c7569fd",
+                "docSignature": "2fd00edffa30008bb407cfab3bc63a7b0a444577_b22342aa7fbf500c29e35858c6f7b6c4",
+                "timestamp": "1601674917",
+                "lastTimeUpdated": "1601453426",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nmah_1395642",
+                "title": "Apollo 11 Crew Patch Newspaper Clipping, United States, 1970",
+                "unitCode": "NMAH",
+                "type": "edanmdm",
+                "url": "edanmdm:nmah_1395642",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nmah_1395642",
+                        "unit_code": "NMAH",
+                        "title_sort": "APOLLO 11 CREW PATCH NEWSPAPER CLIPPING, UNITED STATES, 1970",
+                        "guid": "http://n2t.net/ark:/65665/ng49ca746ad-37d8-704b-e053-15f76fa0b4fa",
+                        "title": {
+                            "label": "Title",
+                            "content": "Apollo 11 Crew Patch Newspaper Clipping, United States, 1970"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Museum of American History"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "newspaper clipping"
+                        ],
+                        "topic": [
+                            "Art",
+                            "Science",
+                            "Art of Gasparro"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "Work and Industry: National Numismatic Collection"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Art of Gasparro"
+                            },
+                            {
+                                "label": "See more items in",
+                                "content": "Coins, Currency and Medals"
+                            }
+                        ],
+                        "date": [
+                            {
+                                "label": "date made",
+                                "content": "ca 1970"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "ID Number",
+                                "content": "2009.0005.079"
+                            },
+                            {
+                                "label": "accession number",
+                                "content": "2009.0005"
+                            },
+                            {
+                                "label": "catalog number",
+                                "content": "2009.0005.079"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Description (Brief)",
+                                "content": "Before computers, artists kept files of images that they used for ideas and visual information. This clipping of the Apollo II insignia, from Frank Gasparro's private collection, may have been his inspiration for the reverse of the Dwight D. Eisenhower and Susan B. Anthony dollars."
+                            },
+                            {
+                                "label": "Location",
+                                "content": "Currently not on view"
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Christina Gasparro Hansen"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "subject",
+                                "content": "Art - Currency"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical Description",
+                                "content": "paper (overall material)"
+                            },
+                            {
+                                "label": "Physical Description",
+                                "content": "ink (overall material)"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "mat: 19.2 cm x 16.4 cm; 7 9/16 in x 6 7/16 in"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "clipping: 10 cm x 10.5 cm; 3 15/16 in x 4 1/8 in"
+                            },
+                            {
+                                "label": "Measurements",
+                                "content": "crew patch: 9 cm; x 3 9/16 in"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Museum of American History"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Object Name",
+                                "content": "newspaper clipping"
+                            }
+                        ]
+                    }
+                },
+                "hash": "b812d68b9024e2c85784d2a919a6db4be9736641",
+                "docSignature": "3eb7342bbb324b011a36c9310b3af7ba009b46b0_89e89fed7ea3c27384f7c028a1869d34",
+                "timestamp": "1594110278",
+                "lastTimeUpdated": "1594110278",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19710814000",
+                "title": "ALSRC, Apollo Lunar Sample Return Container, Apollo 11",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19710814000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19710814000",
+                        "online_media": {
+                            "mediaCount": 7,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS01",
+                                    "idsId": "NASM-A19710814000_PS01",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf491dc06ae-dee6-45f9-bedd-6ad9430f5784",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS01",
+                                    "text_equiv": "Closed rectangular aluminum case with 4 hinges on lid and latches",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS01.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7360x7360)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS01.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS01_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS01_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS02",
+                                    "idsId": "NASM-A19710814000_PS02",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4515eabfc-886d-40c3-b313-93afa6329491",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS02",
+                                    "text_equiv": "Closed rectangular aluminum case with 4 hinges on lid and latches",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS02.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7360x7360)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS02.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS02_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS02_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS03",
+                                    "idsId": "NASM-A19710814000_PS03",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf47d0d0445-9ca6-4681-ba75-1f95d4fa3165",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS03",
+                                    "text_equiv": "Closed rectangular aluminum case with 4 hinges on lid and latches",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS03.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7360x7360)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS03.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS03_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS03_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS04",
+                                    "idsId": "NASM-A19710814000_PS04",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4face7de8-95a3-450a-a774-13a5b791f8f6",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS04",
+                                    "text_equiv": "Rectangular aluminum case with 4 hinges on lid and latches",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS04.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7360x7360)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS04.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS04_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS04_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS05",
+                                    "idsId": "NASM-A19710814000_PS05",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf429828f2f-71ef-4392-b912-fcdcd697ee4c",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19710814000_PS05",
+                                    "text_equiv": "Upright closed rectangular aluminum case with 4 hinges on lid and latches",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS05.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (7360x7360)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS05.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS05_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19710814000_PS05_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-2009-4738",
+                                    "idsId": "NASM-SI-2009-4738",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4c2c48fa7-d91d-4e94-9c3a-09818c2fb6ab",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-SI-2009-4738",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-4738.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3323x3323)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-4738.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-4738_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-SI-2009-4738_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-98-15803",
+                                    "idsId": "NASM-98-15803",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4f5d41cbb-df08-46fb-890a-c2e7556afaee",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-98-15803",
+                                    "text_equiv": "Opened ectangular aluminum box padded and lined with metal mesh",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-15803.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (1228x1228)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-15803.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-15803_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-98-15803_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "ALSRC, APOLLO LUNAR SAMPLE RETURN CONTAINER, APOLLO 11",
+                        "guid": "http://n2t.net/ark:/65665/nv9f13117e8-782e-442f-8b29-ed15f174d8e2",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19710814000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "ALSRC, Apollo Lunar Sample Return Container, Apollo 11"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Equipment"
+                        ],
+                        "name": [
+                            "Union Carbide, Nuclear Division"
+                        ],
+                        "topic": [
+                            "Moon--Exploration"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Equipment",
+                            "Moon",
+                            "Science",
+                            "Tools",
+                            "Apollo Program",
+                            "Exploration",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19710814000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "The Apollo Lunar Sample Return Container (ALSRC) was an aluminum box with a triple seal manufactured by the Nuclear Division of Union Carbide. It was used on Apollo lunar landing missions to preserve a lunar-like vacuum around the samples and protect them from the shock environment of the return flight to earth. An aluminum mesh liner helped absorb impacts. Prior to flight, each box was loaded with sample container bags and other sample containment devices. The \"rock box\" was then closed under vacuum so that it would not contain pressure greater than the lunar ambient pressure. On the moon, while samples were being loaded, the seals were protected by a Teflon film and a cloth cover which were removed just prior to closing the box. Two ALSRC's were used on each mission."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "This ALSRC was used in July 1969 during Apollo 11, the first manned lunar landing mission, by astronauts Neil Armstrong and Buzz Aldrin. The sample-laden container was opened under controlled conditions in the Lunar Receiving Laboratory at the Houston Manned Space Center. It carried 21.8 kg (47.7 lbs) of lunar material from the Sea of Tranquility."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "It was transferred from NASA to the Smithsonian and placed on display in 1970, soon after its historic mission."
+                            },
+                            {
+                                "label": "Alternate Name",
+                                "content": "Apollo Lunar Sample Return Container (ALSRC), Apollo 11"
+                            },
+                            {
+                                "label": "Key Accomplishment(s)",
+                                "content": "First Rock and Soil Samples Returned from the Moon"
+                            },
+                            {
+                                "label": "Brief Description",
+                                "content": "The Apollo Lunar Sample Return Container (ALSRC) is an aluminum box used on the Apollo lunar landing missions to preserve and protect lunar samples for the return flight to Earth. This ALSRC was used in July 1969 during Apollo 11, the first human lunar landing."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from NASA, Johnson Space Center."
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Manufacturer",
+                                "content": "Union Carbide, Nuclear Division"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "ALSRC, Apollo Lunar Sample Return Container, Apollo 11"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "7075 AA aluminum case, 2024 aluminum alloy mesh lining"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall (Closed): 9 1/4 in. \u00d7 1 ft. 2 in. \u00d7 1 ft. 7 in., 19.4lb. (23.5 \u00d7 35.6 \u00d7 48.3cm, 8.8kg)"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "3-D: 48.3 \u00d7 35.6 \u00d7 20.3cm, 8.8kg (1 ft. 7 in. \u00d7 1 ft. 2 in. \u00d7 8 in., 19.4lb.)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "EQUIPMENT-Lunar"
+                            }
+                        ]
+                    }
+                },
+                "hash": "eac92b9fcb9ac550d1a61c0fd82b167ce75409f1",
+                "docSignature": "dbdbdf0303665e8f616a5f64cfdc60d9dc84922a_a4b1cea5d8ebd3d0b36f42f2d7d88c71",
+                "timestamp": "1605777115",
+                "lastTimeUpdated": "1605777102",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19790013000",
+                "title": "Camera, Lunar Mapping, Apollo",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19790013000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19790013000",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19790013000-NASM2015-05479-000001",
+                                    "idsId": "NASM-A19790013000-NASM2015-05479-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf49f0b5ddd-8f34-4706-b480-68a782eebf19",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19790013000-NASM2015-05479-000001",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19790013000-NASM2015-05479-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (6600x6600)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19790013000-NASM2015-05479-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19790013000-NASM2015-05479-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19790013000-NASM2015-05479-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "CAMERA, LUNAR MAPPING, APOLLO",
+                        "guid": "http://n2t.net/ark:/65665/nv94c74d475-d505-49a2-a40f-79bdf25ce26e",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19790013000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Camera, Lunar Mapping, Apollo"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Photographic equipment"
+                        ],
+                        "name": [
+                            "Fairchild Space & Defense Systems"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Equipment",
+                            "Moon",
+                            "Apollo Program",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19790013000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This is the flight backup for the mapping cameras used on the last three Apollo missions. Mapping the lunar surface was a high priority during Apollo 15, 16, and 17. Mounted in the service module, the mapping camera captured high-resolution images of the Moon as the spacecraft orbited. While returning to Earth, command module pilots performed spacewalks to retrieve the film canisters, mounted on the right side of the camera."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "This flight backup, available for those missions if the installed cameras were damaged or malfunctioned before launch, is the best surviving example of the Fairchild-built camera. The flown versions remained in the service modules, which burned up when they reentered the Earth's atmosphere."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "This camera was transferred from NASA to the Museum in 1978."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from NASA"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Manufacturer",
+                                "content": "Fairchild Space & Defense Systems"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Camera, Lunar Mapping, Apollo"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Glass, plastic, metal, celuloid film"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall: 1 ft. 9 1/2 in. \u00d7 3 ft. 11 in., 225lb., 2 ft. 6 in. (54.6 \u00d7 119.4cm, 102.1kg, 76.2cm)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "EQUIPMENT-Photographic"
+                            }
+                        ]
+                    }
+                },
+                "hash": "8b2789cd98ec63a9e87789dac2d5a4abdae7b49c",
+                "docSignature": "6bd0ea55827e4d40691399fecf8b85c52ec9e6c2_13efebaca6315c0d61c674a0f842f3ac",
+                "timestamp": "1596701499",
+                "lastTimeUpdated": "1596701499",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19850143000",
+                "title": "Spoon, Command Module Pilot, Apollo 11",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19850143000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19850143000",
+                        "online_media": {
+                            "mediaCount": 2,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19850143000-NASM2019-00201",
+                                    "idsId": "NASM-A19850143000-NASM2019-00201",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4cd326f76-af29-4304-bd45-35ef80696836",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19850143000-NASM2019-00201",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00201.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (4992x4992)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00201.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00201_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00201_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19850143000-NASM2019-00202-000001",
+                                    "idsId": "NASM-A19850143000-NASM2019-00202-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf42b968e57-673e-450e-bb26-05e881cdc456",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19850143000-NASM2019-00202-000001",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00202-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (3807x3807)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00202-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00202-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19850143000-NASM2019-00202-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "SPOON, COMMAND MODULE PILOT, APOLLO 11",
+                        "guid": "http://n2t.net/ark:/65665/nv98f14d824-f5d7-4b4a-a677-70e255a26cc3",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19850143000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Spoon, Command Module Pilot, Apollo 11"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Culinary equipment for serving and consuming food",
+                            "Equipment for personal use",
+                            "Food"
+                        ],
+                        "name": [
+                            "Collins, Michael",
+                            "Silco Stainless USA"
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Flight Gear",
+                            "Equipment",
+                            "Moon",
+                            "People",
+                            "Apollo Program",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19850143000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This small spoon was used by Command Module Pilot Michael Collins for eating during the Apollo 11 mission in July, 1969. It is constructed of stainless steel, and was part of his Personal Preference Kit."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Donated to the National Air and Space Museum by Michael Collins in 1984"
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Donated by Michael Collins"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Astronaut",
+                                "content": "Michael Collins"
+                            },
+                            {
+                                "label": "Manufacturer",
+                                "content": "Silco Stainless USA"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Overall: Steel"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "3-D: 15 \u00d7 3.5 \u00d7 2.3cm (5 7/8 \u00d7 1 3/8 \u00d7 7/8 in.)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "PERSONAL EQUIPMENT-Food & Food Accessories"
+                            }
+                        ]
+                    }
+                },
+                "hash": "980d344c0958ce99376d426013adb68f785b88e3",
+                "docSignature": "436f495391ca4646f86961578bc8a06747e3669d_b976269b1c54c1dee52126e98d91ba5f",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-nasm_A19870014000",
+                "title": "Boomerang, Apollo 11 Commemorative, ATN Channel 7, Michael Collins",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19870014000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19870014000",
+                        "online_media": {
+                            "mediaCount": 2,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19870014000-NASM2018-00189",
+                                    "idsId": "NASM-A19870014000-NASM2018-00189",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4d92b4963-1107-42c0-8edf-e40b5b6d28c4",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19870014000-NASM2018-00189",
+                                    "text_equiv": "Wooden Apollo 11 Commemorative Boomerang",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00189.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00189.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00189_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00189_thumb"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19870014000-NASM2018-00188",
+                                    "idsId": "NASM-A19870014000-NASM2018-00188",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf4526d88ef-a53a-4590-a955-09886292777e",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19870014000-NASM2018-00188",
+                                    "text_equiv": "Wooden Apollo 11 Commemorative Boomerang with label on apex",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00188.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (8272x8272)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00188.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00188_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19870014000-NASM2018-00188_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "BOOMERANG, APOLLO 11 COMMEMORATIVE, ATN CHANNEL 7, MICHAEL COLLINS",
+                        "guid": "http://n2t.net/ark:/65665/nv9bae675ae-d8ee-4ba1-8ec6-af5dfa0c469b",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19870014000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Boomerang, Apollo 11 Commemorative, ATN Channel 7, Michael Collins"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "Australia"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Awards"
+                        ],
+                        "place": [
+                            "Australia"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Awards",
+                            "Moon",
+                            "People",
+                            "Apollo Program",
+                            "Popular Culture",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19870014000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This boomerang, an example of the \"first aerodynamic shape conceived by man,\" was presented in 1969 to NASA astronaut Michael Collins by the Australian Television Network Channel 7 in celebration of the success of the Apollo 11 Moon landing that July. After Apollo 11, Collins, the command module pilot, and his two crewmates, the first moonwalkers Neil Armstrong and Buzz Aldrin, embarked on a 45-day world tour. Commemorative items like this one, prepared by organizations, companies, or nations, provided a tangible demonstration of the enthusiasm for the first Moon landing."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "Collins, later the director of the National Air and Space Museum and an undersecretary of the Smithsonian Instituion, gave the boomerang to the National Collection in 1986."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Gift of Michael Collins"
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "Australia"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Boomerang, Apollo 11 Commemorative, ATN Channel 7, Michael Collins"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Wood with metal citation plate"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "3-D: 76.2 \u00d7 7.6cm, 0.5kg (2 ft. 6 in. \u00d7 3 in., 1lb.)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "AWARDS-Miscellaneous"
+                            }
+                        ]
+                    }
+                },
+                "hash": "8f4a7bc68f18cea173baf03b53bbdc200e2416d2",
+                "docSignature": "38b4e1c88af1b25a8ce452267bb48451d6188663_3220f53b50a0ac282fc52cd532e4fb66",
+                "timestamp": "1613034742",
+                "lastTimeUpdated": "1613034735",
+                "version": ""
+            },
+            {
+                "id": "edanmdm-siris_arc_366589",
+                "title": "NASM Historical Files, circa 1973-1980",
+                "unitCode": "SIA",
+                "type": "edanmdm",
+                "url": "edanmdm:siris_arc_366589",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "siris_arc_366589",
+                        "unit_code": "SIA",
+                        "title_sort": "NASM HISTORICAL FILES CIRCA 19731980",
+                        "record_link": "https://siarchives.si.edu/collections/siris_arc_366589",
+                        "title": {
+                            "label": "Title",
+                            "content": "NASM Historical Files, circa 1973-1980"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "Smithsonian Institution Archives"
+                    },
+                    "indexedStructured": {
+                        "date": [
+                            "1980s",
+                            "1970s"
+                        ],
+                        "object_type": [
+                            "Archival materials",
+                            "Microfiche",
+                            "Collection descriptions"
+                        ],
+                        "name": [
+                            {
+                                "type": "corporate_main",
+                                "content": "National Air and Space Museum (U.S.)"
+                            },
+                            {
+                                "type": "corporate_subj",
+                                "content": "National Air and Space Museum (U.S.)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Explorer 1: A Twentieth Anniversary Retrospect (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Life in the Universe (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "The Question Mark and the Growth of Aerial Refueling (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Tenth Anniversary of the Apollo 11 Mission (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Flying for Fun (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "World Air Aerobatic Championship (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Wright Brothers 75th Anniversary Exhibit"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Apollo to the Moon (Exhibition)"
+                            },
+                            {
+                                "type": "event_subj",
+                                "content": "Air Traffic Control (Exhibition)"
+                            }
+                        ],
+                        "topic": [
+                            "Astronautical museums",
+                            "Aeronautics",
+                            "Museums"
+                        ],
+                        "usage_flag": [
+                            "SuppressFromCSC",
+                            "SI Record Transfer"
+                        ],
+                        "online_media_type": [
+                            "Finding aids"
+                        ]
+                    },
+                    "freetext": {
+                        "date": [
+                            {
+                                "label": "Date",
+                                "content": "1973"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "1973-1980"
+                            },
+                            {
+                                "label": "Date",
+                                "content": "circa 1973-1980"
+                            }
+                        ],
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "NASM Historical Files 1947-2016 [National Air and Space Museum (U.S.)]"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Local number",
+                                "content": "SIA Acc. 14-043"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Notes",
+                                "content": "Electronic List in accession file."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "Folder List in accession file."
+                            },
+                            {
+                                "label": "Notes",
+                                "content": "For a description of the record series of which these materials form a part, refer to the \"Forms part of\" above."
+                            },
+                            {
+                                "label": "Organization",
+                                "content": "By exhibition"
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "This accession consists of records documenting early National Air and Space Museum exhibitions, including scripts, correspondence, memoranda, label text, and related materials. All materials are on microfiche."
+                            },
+                            {
+                                "label": "Repository Loc.",
+                                "content": "Smithsonian Institution Archives Capital Gallery, Suite 3000, MRC 507; 600 Maryland Avenue, SW; Washington, DC 20024-2520"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Creator",
+                                "content": "National Air and Space Museum (U.S.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "National Air and Space Museum (U.S.) Space Hall"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "National Air and Space Museum (U.S.) West End Gallery"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Explorer 1: A Twentieth Anniversary Retrospect (Exhibition) (c. 1978: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Life in the Universe (Exhibition) (1976-1979: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "The Question Mark and the Growth of Aerial Refueling (Exhibition) (1978-1979: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Tenth Anniversary of the Apollo 11 Mission (Exhibition) (1979-1980: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Flying for Fun (Exhibition) (1978: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "World Air Aerobatic Championship (Exhibition) (c. 1973: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Wright Brothers 75th Anniversary Exhibit (c. 1978: Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Apollo to the Moon (Exhibition) (1976- : Washington, D.C.)"
+                            },
+                            {
+                                "label": "Subject",
+                                "content": "Air Traffic Control (Exhibition) (1974: Washington, D.C.)"
+                            }
+                        ],
+                        "topic": [
+                            {
+                                "label": "Topic",
+                                "content": "Aeronautical museums"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Astronautical museums"
+                            },
+                            {
+                                "label": "Topic",
+                                "content": "Museum exhibits"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Physical description",
+                                "content": "0.25 cu. ft. (1 half document box)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "Smithsonian Institution Archives"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "Microfiche"
+                            },
+                            {
+                                "label": "Type",
+                                "content": "Collection descriptions"
+                            }
+                        ]
+                    }
+                },
+                "hash": "aed41ab25d4603a38dd505d8ef4f2e874f08e5cb",
+                "docSignature": "589d441087f3d82d70b38513d8d30a5b9240d87e_d44e75b62b374be48935e7f1c8c47ca5",
+                "timestamp": "1597997484",
+                "lastTimeUpdated": "1597997466",
+                "version": ""
+            }
+        ],
+        "rowCount": 28,
+        "message": "content found"
+    }
+}

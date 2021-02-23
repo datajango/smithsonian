@@ -12,7 +12,7 @@ This section details the current features of this POC and the roadmap for new fe
 
 ## Using the API
 
-git The Smithsonian has a web based search interface located at https://www.si.edu/collections.  As a test I will search for Apollo 11.
+The Smithsonian has a web based search interface located at https://www.si.edu/collections.  As a test I will search for "Apollo 11".
 
 ![](./smithsonian-search-apollo-11.png)
 
@@ -20,7 +20,7 @@ Which yields many images, but I am interested in the Apollo 11 Mission patch.
 
 ![](./smithsonian-search-apollo-11-mission-patch-results.png)
 
-When you click on the Mission Patch your taken to a content page : https://www.si.edu/object/patch-mission-apollo-11:nasm_A19820401000?edan_local=&edan_q=apollo%2B11&destination=/search/collection-images&searchResults=1&id=nasm_A19820401000
+When you click on the Mission Patch you are taken to a content page : https://www.si.edu/object/patch-mission-apollo-11:nasm_A19820401000?edan_local=&edan_q=apollo%2B11&destination=/search/collection-images&searchResults=1&id=nasm_A19820401000
 
 ![](./smithsonian-search-apollo-11-mission-patch-content.png)
 
@@ -41,7 +41,7 @@ The right hand side displays information about the Mission Patch Item:
 | GUID (Link to Original Record)         | http://n2t.net/ark:/65665/nv917ded645-537d-4e3a-9eef-cd4b02d133f5 |
 
 
-Next, I'll see what happens when I use the imtem title that was returned from the "Search Collection Images" web page:
+Next, I'll see what happens when I use the item title that was returned from the "Search Collection Images" web page:
 
 ```python
 import search

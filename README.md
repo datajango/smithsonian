@@ -2,7 +2,7 @@
 
 ## Why was this repo was created?
 
-This repo was created to build new interactrive, collaborative applications that use the Smithsonian Institution Open Access API.
+This repo was created to build new interactive, collaborative applications that use the Smithsonian Institution Open Access API.
 
 ### Smithsonian Institution Open Access API
 

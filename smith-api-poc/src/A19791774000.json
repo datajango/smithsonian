@@ -1,0 +1,194 @@
+{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [
+            {
+                "id": "edanmdm-nasm_A19791774000",
+                "title": "Headset, Communications Carrier, Armstrong, Apollo 11",
+                "unitCode": "NASM",
+                "type": "edanmdm",
+                "url": "edanmdm:nasm_A19791774000",
+                "content": {
+                    "descriptiveNonRepeating": {
+                        "record_ID": "nasm_A19791774000",
+                        "online_media": {
+                            "mediaCount": 1,
+                            "media": [
+                                {
+                                    "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NASM-A19791774000-NASM2014-05415-000001",
+                                    "idsId": "NASM-A19791774000-NASM2014-05415-000001",
+                                    "usage": {
+                                        "access": "CC0"
+                                    },
+                                    "guid": "http://n2t.net/ark:/65665/gf449990029-ad19-41b7-b931-b2c59f3ecf99",
+                                    "type": "Images",
+                                    "content": "https://ids.si.edu/ids/deliveryService?id=NASM-A19791774000-NASM2014-05415-000001",
+                                    "resources": [
+                                        {
+                                            "label": "High-resolution TIFF",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001.tif"
+                                        },
+                                        {
+                                            "label": "High-resolution JPEG (2143x2143)",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001.jpg"
+                                        },
+                                        {
+                                            "label": "Screen Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001_screen"
+                                        },
+                                        {
+                                            "label": "Thumbnail Image",
+                                            "url": "https://ids.si.edu/ids/download?id=NASM-A19791774000-NASM2014-05415-000001_thumb"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "unit_code": "NASM",
+                        "title_sort": "HEADSET, COMMUNICATIONS CARRIER, ARMSTRONG, APOLLO 11",
+                        "guid": "http://n2t.net/ark:/65665/nv92f6204ff-8027-45ad-a5e3-03b28e825f86",
+                        "record_link": "https://airandspace.si.edu/collection/id/nasm_A19791774000",
+                        "title": {
+                            "label": "Object Name",
+                            "content": "Headset, Communications Carrier, Armstrong, Apollo 11"
+                        },
+                        "metadata_usage": {
+                            "access": "CC0"
+                        },
+                        "data_source": "National Air and Space Museum"
+                    },
+                    "indexedStructured": {
+                        "geoLocation": [
+                            {
+                                "L2": {
+                                    "type": "Country",
+                                    "content": "United States of America"
+                                }
+                            }
+                        ],
+                        "object_type": [
+                            "Communication systems (mechanical and electrical systems)",
+                            "Equipment for personal use"
+                        ],
+                        "name": [
+                            "Armstrong, Neil A.",
+                            "Pacific Plantronics, Inc."
+                        ],
+                        "place": [
+                            "United States of America"
+                        ],
+                        "usage_flag": [
+                            "Space",
+                            "Flight Gear",
+                            "Equipment",
+                            "Moon",
+                            "People",
+                            "Apollo Program",
+                            "Human Spaceflight",
+                            "Missions"
+                        ],
+                        "online_media_type": [
+                            "Images"
+                        ]
+                    },
+                    "freetext": {
+                        "setName": [
+                            {
+                                "label": "See more items in",
+                                "content": "National Air and Space Museum Collection"
+                            }
+                        ],
+                        "identifier": [
+                            {
+                                "label": "Inventory Number",
+                                "content": "A19791774000"
+                            }
+                        ],
+                        "notes": [
+                            {
+                                "label": "Summary",
+                                "content": "This communications carrier was used by astronaut Neil Armstrong during the Apollo 11 mission in July 1969. Communications carriers were worn during launch and the mission, and were affectionately known as the \"Snoopy Cap\" from its resemblance to a famous cartoon character of the era."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "It was constructed of an elastic center portion with Teflon fabric sides containing the communications equipment and mouthpiece. It fastened beneath the chin and was worn during the launch sequence, while in the lunar module, and on the lunar surface."
+                            },
+                            {
+                                "label": "Summary",
+                                "content": "NASA transferred this object to the Musuem in 1979."
+                            }
+                        ],
+                        "creditLine": [
+                            {
+                                "label": "Credit Line",
+                                "content": "Transferred from the National Aeronautics and Space Administration"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "label": "Astronaut",
+                                "content": "Neil A. Armstrong, 1930 - 2012"
+                            },
+                            {
+                                "label": "Manufacturer",
+                                "content": "Pacific Plantronics, Inc."
+                            }
+                        ],
+                        "place": [
+                            {
+                                "label": "Country of Origin",
+                                "content": "United States of America"
+                            }
+                        ],
+                        "title": [
+                            {
+                                "label": "Title",
+                                "content": "Headset, Communications Carrier, Armstrong, Apollo 11"
+                            }
+                        ],
+                        "physicalDescription": [
+                            {
+                                "label": "Materials",
+                                "content": "Cap: Nylon/Polyester knit, Teflon fabric"
+                            },
+                            {
+                                "label": "Materials",
+                                "content": "Earphones: Plastic, leather, communications cables"
+                            },
+                            {
+                                "label": "Dimensions",
+                                "content": "Overall (Approximately): 9in. x 10 1/2in. x 9in. (22.86 x 26.67 x 22.86cm)"
+                            }
+                        ],
+                        "dataSource": [
+                            {
+                                "label": "Data Source",
+                                "content": "National Air and Space Museum"
+                            }
+                        ],
+                        "objectRights": [
+                            {
+                                "label": "Restrictions & Rights",
+                                "content": "CC0"
+                            }
+                        ],
+                        "objectType": [
+                            {
+                                "label": "Type",
+                                "content": "PERSONAL EQUIPMENT-Communications Gear"
+                            }
+                        ]
+                    }
+                },
+                "hash": "c98dfb5fe59e3430ac7942820af8c01d88102515",
+                "docSignature": "2958c4f099a90e5c1ec2af3bd5c5b655732c6d22_d6933ac9e4b3593b15f8becac6618a1d",
+                "timestamp": "1592467904",
+                "lastTimeUpdated": "1592467904",
+                "version": ""
+            }
+        ],
+        "rowCount": 1,
+        "message": "content found"
+    }
+}

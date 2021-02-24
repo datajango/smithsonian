@@ -67,7 +67,7 @@ results = search.search('A19820401000')
 
 ```
 
-This search returns no results: 
+This search returns no results:
 
 ```json
 {

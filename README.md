@@ -15,7 +15,46 @@ The Open Access API was released as part of the launch allowing you to connect t
 
 - [Smithsonian Open Access API Proof of Concept](./smith-api-poc/README.md)
 
-## Branchs
+<b>Update 2/23/2021</b>
+
+The Open Access Search tool and the Open Access API share Accession Number which can be used to load image assets. Suppose you want to find "masks", go to [Smithsonian Open Access](https://www.si.edu/openaccess) and enter "mask".
+
+![search-mask](./search-mask.png)
+
+The detail page has an Accession Number on the right hand side.
+
+![mask](./mask.png)
+
+I used the  Accession Number 1952-76-2 in the API POC I wrote.
+
+To test this:
+
+```
+conda activate smith
+cd smith-api-poc
+cd src
+python get_content.py
+```
+Which returns the following JSON snippet:
+
+```JSON
+"media": [
+    {
+        "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-9BFC7BDCAAE92-000001",
+        "idsId": "CHSDM-9BFC7BDCAAE92-000001",
+        "usage": {
+            "access": "CC0"
+        },
+        "guid": "http://n2t.net/ark:/65665/vc9f8023858-3a20-49f7-b89f-717438b5a60a",
+        "type": "Images",
+        "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-9BFC7BDCAAE92-000001",
+```
+
+The image URL matches the "content" URL.
+
+![mask-url](./mask-url.png)
+
+## Branches
 
 - [Develop Branch](./DEVELOP.md)
 
